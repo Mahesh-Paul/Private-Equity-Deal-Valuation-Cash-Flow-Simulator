@@ -276,3 +276,4 @@ When presenting this project to interviewers (Private Equity, McKinsey, Bain, BC
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
