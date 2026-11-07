@@ -8,6 +8,7 @@ import MonteCarloSimulator from './components/MonteCarloSimulator';
 import DCFValuation from './components/DCFValuation';
 import SecEdgarPipeline from './components/SecEdgarPipeline';
 import SavedDealsModal from './components/SavedDealsModal';
+import { computeClientLBO } from './utils/calculations';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('lbo');
@@ -35,7 +36,7 @@ export default function App() {
     min_interest_coverage_covenant: 2.5
   });
 
-  const [lboData, setLboData] = useState(null);
+  const [lboData, setLboData] = useState(() => computeClientLBO(lboParams));
   const [isRecalculating, setIsRecalculating] = useState(false);
   const [toastMessage, setToastMessage] = useState(null);
 
@@ -45,7 +46,9 @@ export default function App() {
       const res = await axios.post('/api/valuation/lbo', params);
       setLboData(res.data);
     } catch (err) {
-      console.error('LBO model computation failed:', err);
+      // Standalone Vercel deployment fallback
+      const clientResult = computeClientLBO(params);
+      setLboData(clientResult);
     } finally {
       setIsRecalculating(false);
     }

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Activity, Play, RefreshCw, Zap, ShieldAlert, Award, TrendingUp, BarChart3, Sliders, Globe } from 'lucide-react';
 import { ResponsiveContainer, BarChart, Bar, AreaChart, Area, XAxis, YAxis, Tooltip, CartesianGrid, Legend } from 'recharts';
 import axios from 'axios';
+import { computeClientMonteCarlo } from '../utils/calculations';
 
 export default function MonteCarloSimulator({ lboParams }) {
   const [numSimulations, setNumSimulations] = useState(10000);
@@ -10,7 +11,7 @@ export default function MonteCarloSimulator({ lboParams }) {
   const [interestStd, setInterestStd] = useState(0.015);
   const [macroScenario, setMacroScenario] = useState('baseline');
   const [chartView, setChartView] = useState('distribution'); // 'distribution' | 'cumulative'
-  const [results, setResults] = useState(null);
+  const [results, setResults] = useState(() => computeClientMonteCarlo({ lbo_base: lboParams, num_simulations: 10000 }));
   const [isRunning, setIsRunning] = useState(false);
 
   const runSimulation = async (scenario = macroScenario) => {
@@ -27,7 +28,14 @@ export default function MonteCarloSimulator({ lboParams }) {
       });
       setResults(res.data);
     } catch (err) {
-      console.error('Monte Carlo execution failed:', err);
+      // Standalone Vercel deployment fallback
+      const clientRes = computeClientMonteCarlo({
+        lbo_base: lboParams,
+        num_simulations: numSimulations,
+        rev_growth_std: revGrowthStd,
+        exit_multiple_std: exitMultStd
+      });
+      setResults(clientRes);
     } finally {
       setIsRunning(false);
     }
