@@ -12,11 +12,32 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     # Institutional reproducibility seed
     np.random.seed(42)
     
+    # Macroeconomic scenario modifiers
+    scenario = getattr(req, 'macro_scenario', 'baseline') or 'baseline'
+    growth_mean_shift = 0.0
+    exit_mean_shift = 0.0
+    rate_mean_shift = 0.0
+    margin_mean_shift = 0.0
+
+    if scenario == 'stagflation':
+        growth_mean_shift = -0.03
+        rate_mean_shift = 0.02
+        exit_mean_shift = -1.5
+        margin_mean_shift = -0.01
+    elif scenario == 'tech_recession':
+        growth_mean_shift = -0.05
+        exit_mean_shift = -2.5
+        margin_mean_shift = -0.03
+    elif scenario == 'bull_market':
+        growth_mean_shift = 0.03
+        exit_mean_shift = 2.0
+        margin_mean_shift = 0.02
+    
     # 1. Vectorized Stochastic Sampling
-    rev_growth_samples = np.random.normal(base.revenue_growth_rate, req.rev_growth_std, N)
-    exit_mult_samples = np.clip(np.random.normal(base.exit_multiple, req.exit_multiple_std, N), 4.0, 25.0)
-    interest_rate_shift = np.random.normal(0.0, req.interest_rate_std, N)
-    margin_shift = np.random.normal(0.0, req.ebitda_margin_std, N)
+    rev_growth_samples = np.random.normal(base.revenue_growth_rate + growth_mean_shift, req.rev_growth_std, N)
+    exit_mult_samples = np.clip(np.random.normal(base.exit_multiple + exit_mean_shift, req.exit_multiple_std, N), 4.0, 25.0)
+    interest_rate_shift = np.random.normal(rate_mean_shift, req.interest_rate_std, N)
+    margin_shift = np.random.normal(margin_mean_shift, req.ebitda_margin_std, N)
     
     # 2. Capital Structure at Entry
     entry_ev = base.entry_ebitda * base.entry_multiple
@@ -67,6 +88,12 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     mean_irr = float(np.mean(irr))
     std_irr = float(np.std(irr))
     
+    # Advanced Quant Metrics: VaR 95%, CVaR 95%, Sharpe Ratio
+    var_95_irr = float(p5_irr)
+    worst_tail = irr[irr <= p5_irr]
+    cvar_95_irr = float(np.mean(worst_tail)) if len(worst_tail) > 0 else var_95_irr
+    sharpe_ratio = float((mean_irr - 4.5) / std_irr) if std_irr > 0.01 else 0.0
+    
     moic_percentiles = np.percentile(moic, [5, 50, 95])
     p5_moic, median_moic, p95_moic = moic_percentiles
     mean_moic = float(np.mean(moic))
@@ -78,6 +105,27 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     chart_irrs = np.clip(irr, -40.0, 80.0)
     counts, bin_edges = np.histogram(chart_irrs, bins=25)
     bin_centers = [(bin_edges[i] + bin_edges[i+1]) / 2.0 for i in range(len(counts))]
+    
+    # Cumulative probability curve (CDF: Probability of achieving <= X%)
+    cum_counts = np.cumsum(counts) / float(len(chart_irrs)) * 100.0
+    cumulative_probabilities = [round(float(c), 1) for c in cum_counts]
+    
+    # Factor Importance (Variance decomposition via Pearson correlation squared)
+    corr_rev = float(np.corrcoef(rev_growth_samples, irr)[0, 1]) ** 2
+    corr_exit = float(np.corrcoef(exit_mult_samples, irr)[0, 1]) ** 2
+    corr_interest = float(np.corrcoef(simulated_interests, irr)[0, 1]) ** 2
+    corr_margin = float(np.corrcoef(margin_shift, irr)[0, 1]) ** 2
+    
+    total_corr = corr_rev + corr_exit + corr_interest + corr_margin
+    if total_corr > 0:
+        factor_importance = {
+            "Exit Multiple": round((corr_exit / total_corr) * 100.0, 1),
+            "Revenue Growth": round((corr_rev / total_corr) * 100.0, 1),
+            "EBITDA Margin": round((corr_margin / total_corr) * 100.0, 1),
+            "Interest Rate": round((corr_interest / total_corr) * 100.0, 1)
+        }
+    else:
+        factor_importance = {"Exit Multiple": 45.0, "Revenue Growth": 30.0, "EBITDA Margin": 15.0, "Interest Rate": 10.0}
     
     # Representative scenarios matching percentiles
     sample_scenarios: List[Dict[str, Any]] = []
@@ -120,5 +168,10 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
         probability_hurdle_rate_20pct=round(prob_hurdle, 2),
         irr_distribution_bins=[round(b, 1) for b in bin_centers],
         irr_distribution_counts=[int(c) for c in counts],
-        sample_scenarios=sample_scenarios
+        sample_scenarios=sample_scenarios,
+        var_95_irr=round(var_95_irr, 2),
+        cvar_95_irr=round(cvar_95_irr, 2),
+        sharpe_ratio=round(sharpe_ratio, 2),
+        cumulative_probabilities=cumulative_probabilities,
+        factor_importance=factor_importance
     )

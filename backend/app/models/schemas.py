@@ -135,6 +135,7 @@ class MonteCarloRequest(BaseModel):
     exit_multiple_std: float = Field(default=1.5, description="Standard deviation for exit multiple")
     interest_rate_std: float = Field(default=0.015, description="Standard deviation for interest rate shocks")
     ebitda_margin_std: float = Field(default=0.02, description="Standard deviation for EBITDA margin shifts")
+    macro_scenario: Optional[str] = Field(default="baseline", description="Macro scenario preset")
 
 class MonteCarloResponse(BaseModel):
     simulations_count: int
@@ -156,6 +157,11 @@ class MonteCarloResponse(BaseModel):
     irr_distribution_bins: List[float]
     irr_distribution_counts: List[int]
     sample_scenarios: List[Dict[str, Any]]
+    var_95_irr: Optional[float] = 0.0
+    cvar_95_irr: Optional[float] = 0.0
+    sharpe_ratio: Optional[float] = 0.0
+    cumulative_probabilities: Optional[List[float]] = None
+    factor_importance: Optional[Dict[str, float]] = None
 
 class SensitivityRequest(BaseModel):
     lbo_base: LBORequest
