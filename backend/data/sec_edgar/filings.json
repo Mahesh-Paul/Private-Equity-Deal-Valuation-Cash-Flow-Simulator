@@ -1,0 +1,3442 @@
+{
+  "APOLLO": {
+    "cik": "0001850123",
+    "ticker": "APOLLO",
+    "name": "Apollo Enterprise Cloud Systems",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 210.0,
+        "gross_profit": 147.0,
+        "operating_income": 37.5,
+        "depreciation_amortization": 7.4,
+        "reported_ebitda": 44.9,
+        "normalized_ebitda": 47.0,
+        "total_qoe_addbacks": 2.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.5,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 88.2,
+        "current_liabilities": 50.4,
+        "working_capital": 37.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 102.0,
+        "interest_expense": 6.6,
+        "debt_to_ebitda": 2.17,
+        "interest_coverage": 7.12,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 230.0,
+        "gross_profit": 161.0,
+        "operating_income": 42.6,
+        "depreciation_amortization": 8.1,
+        "reported_ebitda": 50.7,
+        "normalized_ebitda": 53.1,
+        "total_qoe_addbacks": 2.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.7,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 96.6,
+        "current_liabilities": 55.2,
+        "working_capital": 41.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 115.2,
+        "interest_expense": 7.5,
+        "debt_to_ebitda": 2.17,
+        "interest_coverage": 7.08,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 250.0,
+        "gross_profit": 175.0,
+        "operating_income": 48.0,
+        "depreciation_amortization": 8.8,
+        "reported_ebitda": 56.8,
+        "normalized_ebitda": 59.5,
+        "total_qoe_addbacks": 2.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.9,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 105.0,
+        "current_liabilities": 60.0,
+        "working_capital": 45.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 129.1,
+        "interest_expense": 8.4,
+        "debt_to_ebitda": 2.17,
+        "interest_coverage": 7.08,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "DATASYNC": {
+    "cik": "0001564408",
+    "ticker": "DATASYNC",
+    "name": "DataSync Analytics Corp",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 268.8,
+        "gross_profit": 188.2,
+        "operating_income": 59.9,
+        "depreciation_amortization": 9.4,
+        "reported_ebitda": 69.3,
+        "normalized_ebitda": 72.6,
+        "total_qoe_addbacks": 3.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.3,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 112.9,
+        "current_liabilities": 64.5,
+        "working_capital": 48.4,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 134.3,
+        "interest_expense": 8.7,
+        "debt_to_ebitda": 1.85,
+        "interest_coverage": 8.34,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 294.4,
+        "gross_profit": 206.1,
+        "operating_income": 67.5,
+        "depreciation_amortization": 10.3,
+        "reported_ebitda": 77.8,
+        "normalized_ebitda": 81.5,
+        "total_qoe_addbacks": 3.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.6,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 123.6,
+        "current_liabilities": 70.7,
+        "working_capital": 52.9,
+        "working_capital_pct_revenue": 17.97,
+        "total_debt": 150.8,
+        "interest_expense": 9.8,
+        "debt_to_ebitda": 1.85,
+        "interest_coverage": 8.32,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 320.0,
+        "gross_profit": 224.0,
+        "operating_income": 75.6,
+        "depreciation_amortization": 11.2,
+        "reported_ebitda": 86.8,
+        "normalized_ebitda": 90.9,
+        "total_qoe_addbacks": 4.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.9,
+          "restructuring_and_migration": 1.2
+        },
+        "current_assets": 134.4,
+        "current_liabilities": 76.8,
+        "working_capital": 57.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 168.2,
+        "interest_expense": 10.9,
+        "debt_to_ebitda": 1.85,
+        "interest_coverage": 8.34,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CYBERVAULT": {
+    "cik": "0001735738",
+    "ticker": "CYBERVAULT",
+    "name": "CyberVault Security Solutions",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 163.8,
+        "gross_profit": 114.7,
+        "operating_income": 26.4,
+        "depreciation_amortization": 5.7,
+        "reported_ebitda": 32.1,
+        "normalized_ebitda": 33.6,
+        "total_qoe_addbacks": 1.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.0,
+          "restructuring_and_migration": 0.4
+        },
+        "current_assets": 68.8,
+        "current_liabilities": 39.3,
+        "working_capital": 29.5,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 80.6,
+        "interest_expense": 5.2,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.46,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 179.4,
+        "gross_profit": 125.6,
+        "operating_income": 30.0,
+        "depreciation_amortization": 6.3,
+        "reported_ebitda": 36.3,
+        "normalized_ebitda": 38.0,
+        "total_qoe_addbacks": 1.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.2,
+          "restructuring_and_migration": 0.5
+        },
+        "current_assets": 75.3,
+        "current_liabilities": 43.1,
+        "working_capital": 32.2,
+        "working_capital_pct_revenue": 17.95,
+        "total_debt": 91.2,
+        "interest_expense": 5.9,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.44,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 195.0,
+        "gross_profit": 136.5,
+        "operating_income": 34.0,
+        "depreciation_amortization": 6.8,
+        "reported_ebitda": 40.8,
+        "normalized_ebitda": 42.7,
+        "total_qoe_addbacks": 1.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.3,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 81.9,
+        "current_liabilities": 46.8,
+        "working_capital": 35.1,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 102.5,
+        "interest_expense": 6.7,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.37,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CLOUDFLOW": {
+    "cik": "0001644406",
+    "ticker": "CLOUDFLOW",
+    "name": "CloudFlow Infrastructure Inc",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 344.4,
+        "gross_profit": 241.1,
+        "operating_income": 84.9,
+        "depreciation_amortization": 12.1,
+        "reported_ebitda": 97.0,
+        "normalized_ebitda": 101.6,
+        "total_qoe_addbacks": 4.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.2,
+          "restructuring_and_migration": 1.4
+        },
+        "current_assets": 144.6,
+        "current_liabilities": 82.7,
+        "working_capital": 61.9,
+        "working_capital_pct_revenue": 17.97,
+        "total_debt": 198.1,
+        "interest_expense": 12.9,
+        "debt_to_ebitda": 1.95,
+        "interest_coverage": 7.88,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 377.2,
+        "gross_profit": 264.0,
+        "operating_income": 95.6,
+        "depreciation_amortization": 13.2,
+        "reported_ebitda": 108.8,
+        "normalized_ebitda": 113.9,
+        "total_qoe_addbacks": 5.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.6,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 158.4,
+        "current_liabilities": 90.5,
+        "working_capital": 67.9,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 222.1,
+        "interest_expense": 14.4,
+        "debt_to_ebitda": 1.95,
+        "interest_coverage": 7.91,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 410.0,
+        "gross_profit": 287.0,
+        "operating_income": 106.6,
+        "depreciation_amortization": 14.4,
+        "reported_ebitda": 121.0,
+        "normalized_ebitda": 126.7,
+        "total_qoe_addbacks": 5.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.0,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 172.2,
+        "current_liabilities": 98.4,
+        "working_capital": 73.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 247.1,
+        "interest_expense": 16.1,
+        "debt_to_ebitda": 1.95,
+        "interest_coverage": 7.87,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "OMNICOMM": {
+    "cik": "0001408356",
+    "ticker": "OMNICOMM",
+    "name": "OmniCommerce SaaS Group",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 138.6,
+        "gross_profit": 97.0,
+        "operating_income": 18.9,
+        "depreciation_amortization": 4.9,
+        "reported_ebitda": 23.8,
+        "normalized_ebitda": 24.9,
+        "total_qoe_addbacks": 1.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.8,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 58.2,
+        "current_liabilities": 33.3,
+        "working_capital": 24.9,
+        "working_capital_pct_revenue": 17.97,
+        "total_debt": 66.0,
+        "interest_expense": 4.3,
+        "debt_to_ebitda": 2.65,
+        "interest_coverage": 5.79,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 151.8,
+        "gross_profit": 106.3,
+        "operating_income": 21.8,
+        "depreciation_amortization": 5.3,
+        "reported_ebitda": 27.1,
+        "normalized_ebitda": 28.4,
+        "total_qoe_addbacks": 1.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.9,
+          "restructuring_and_migration": 0.4
+        },
+        "current_assets": 63.8,
+        "current_liabilities": 36.4,
+        "working_capital": 27.4,
+        "working_capital_pct_revenue": 18.05,
+        "total_debt": 75.3,
+        "interest_expense": 4.9,
+        "debt_to_ebitda": 2.65,
+        "interest_coverage": 5.8,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 165.0,
+        "gross_profit": 115.5,
+        "operating_income": 24.8,
+        "depreciation_amortization": 5.8,
+        "reported_ebitda": 30.6,
+        "normalized_ebitda": 32.0,
+        "total_qoe_addbacks": 1.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.0,
+          "restructuring_and_migration": 0.4
+        },
+        "current_assets": 69.3,
+        "current_liabilities": 39.6,
+        "working_capital": 29.7,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 84.8,
+        "interest_expense": 5.5,
+        "debt_to_ebitda": 2.65,
+        "interest_coverage": 5.82,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "DEVSCALE": {
+    "cik": "0001659482",
+    "ticker": "DEVSCALE",
+    "name": "DevScale Platform Technologies",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 235.2,
+        "gross_profit": 164.6,
+        "operating_income": 46.8,
+        "depreciation_amortization": 8.2,
+        "reported_ebitda": 55.0,
+        "normalized_ebitda": 57.6,
+        "total_qoe_addbacks": 2.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.8,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 98.8,
+        "current_liabilities": 56.4,
+        "working_capital": 42.4,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 121.0,
+        "interest_expense": 7.9,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.29,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 257.6,
+        "gross_profit": 180.3,
+        "operating_income": 53.0,
+        "depreciation_amortization": 9.0,
+        "reported_ebitda": 62.0,
+        "normalized_ebitda": 64.9,
+        "total_qoe_addbacks": 2.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 108.2,
+        "current_liabilities": 61.8,
+        "working_capital": 46.4,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 136.3,
+        "interest_expense": 8.9,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.29,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 280.0,
+        "gross_profit": 196.0,
+        "operating_income": 59.4,
+        "depreciation_amortization": 9.8,
+        "reported_ebitda": 69.2,
+        "normalized_ebitda": 72.5,
+        "total_qoe_addbacks": 3.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.3,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 117.6,
+        "current_liabilities": 67.2,
+        "working_capital": 50.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 152.2,
+        "interest_expense": 9.9,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.32,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "APEXAI": {
+    "cik": "0001822839",
+    "ticker": "APEXAI",
+    "name": "Apex Enterprise AI Systems",
+    "sector": "Enterprise Software & Cloud SaaS",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 117.6,
+        "gross_profit": 82.3,
+        "operating_income": 14.4,
+        "depreciation_amortization": 4.1,
+        "reported_ebitda": 18.5,
+        "normalized_ebitda": 19.4,
+        "total_qoe_addbacks": 0.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.6,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 49.4,
+        "current_liabilities": 28.2,
+        "working_capital": 21.2,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 33.0,
+        "interest_expense": 2.1,
+        "debt_to_ebitda": 1.7,
+        "interest_coverage": 9.24,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 128.8,
+        "gross_profit": 90.2,
+        "operating_income": 16.7,
+        "depreciation_amortization": 4.5,
+        "reported_ebitda": 21.2,
+        "normalized_ebitda": 22.2,
+        "total_qoe_addbacks": 1.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.7,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 54.1,
+        "current_liabilities": 30.9,
+        "working_capital": 23.2,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 37.7,
+        "interest_expense": 2.5,
+        "debt_to_ebitda": 1.7,
+        "interest_coverage": 8.88,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 140.0,
+        "gross_profit": 98.0,
+        "operating_income": 19.1,
+        "depreciation_amortization": 4.9,
+        "reported_ebitda": 24.0,
+        "normalized_ebitda": 25.1,
+        "total_qoe_addbacks": 1.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.8,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 58.8,
+        "current_liabilities": 33.6,
+        "working_capital": 25.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 42.7,
+        "interest_expense": 2.8,
+        "debt_to_ebitda": 1.7,
+        "interest_coverage": 8.96,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "BEACON": {
+    "cik": "0001420999",
+    "ticker": "BEACON",
+    "name": "Beacon Medical Technologies",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 331.8,
+        "gross_profit": 232.3,
+        "operating_income": 69.2,
+        "depreciation_amortization": 11.6,
+        "reported_ebitda": 80.8,
+        "normalized_ebitda": 84.6,
+        "total_qoe_addbacks": 3.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.7,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 139.4,
+        "current_liabilities": 79.6,
+        "working_capital": 59.8,
+        "working_capital_pct_revenue": 18.02,
+        "total_debt": 230.1,
+        "interest_expense": 15.0,
+        "debt_to_ebitda": 2.72,
+        "interest_coverage": 5.64,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 363.4,
+        "gross_profit": 254.4,
+        "operating_income": 78.2,
+        "depreciation_amortization": 12.7,
+        "reported_ebitda": 90.9,
+        "normalized_ebitda": 95.2,
+        "total_qoe_addbacks": 4.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.0,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 152.6,
+        "current_liabilities": 87.2,
+        "working_capital": 65.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 258.9,
+        "interest_expense": 16.8,
+        "debt_to_ebitda": 2.72,
+        "interest_coverage": 5.67,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 395.0,
+        "gross_profit": 276.5,
+        "operating_income": 87.7,
+        "depreciation_amortization": 13.8,
+        "reported_ebitda": 101.5,
+        "normalized_ebitda": 106.3,
+        "total_qoe_addbacks": 4.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.4,
+          "restructuring_and_migration": 1.4
+        },
+        "current_assets": 165.9,
+        "current_liabilities": 94.8,
+        "working_capital": 71.1,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 289.1,
+        "interest_expense": 18.8,
+        "debt_to_ebitda": 2.72,
+        "interest_coverage": 5.65,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "NOVABIO": {
+    "cik": "0001043219",
+    "ticker": "NOVABIO",
+    "name": "NovaBio Therapeutics Group",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 403.2,
+        "gross_profit": 282.2,
+        "operating_income": 103.4,
+        "depreciation_amortization": 14.1,
+        "reported_ebitda": 117.5,
+        "normalized_ebitda": 123.0,
+        "total_qoe_addbacks": 5.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.8,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 169.3,
+        "current_liabilities": 96.8,
+        "working_capital": 72.5,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 276.8,
+        "interest_expense": 18.0,
+        "debt_to_ebitda": 2.25,
+        "interest_coverage": 6.83,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 441.6,
+        "gross_profit": 309.1,
+        "operating_income": 116.1,
+        "depreciation_amortization": 15.5,
+        "reported_ebitda": 131.6,
+        "normalized_ebitda": 137.8,
+        "total_qoe_addbacks": 6.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.3,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 185.5,
+        "current_liabilities": 106.0,
+        "working_capital": 79.5,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 310.1,
+        "interest_expense": 20.2,
+        "debt_to_ebitda": 2.25,
+        "interest_coverage": 6.82,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 480.0,
+        "gross_profit": 336.0,
+        "operating_income": 129.4,
+        "depreciation_amortization": 16.8,
+        "reported_ebitda": 146.2,
+        "normalized_ebitda": 153.1,
+        "total_qoe_addbacks": 6.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.8,
+          "restructuring_and_migration": 2.1
+        },
+        "current_assets": 201.6,
+        "current_liabilities": 115.2,
+        "working_capital": 86.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 344.5,
+        "interest_expense": 22.4,
+        "debt_to_ebitda": 2.25,
+        "interest_coverage": 6.83,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CARDIOCORE": {
+    "cik": "0000885721",
+    "ticker": "CARDIOCORE",
+    "name": "CardioCore Diagnostics Inc",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 243.6,
+        "gross_profit": 170.5,
+        "operating_income": 45.0,
+        "depreciation_amortization": 8.5,
+        "reported_ebitda": 53.5,
+        "normalized_ebitda": 56.0,
+        "total_qoe_addbacks": 2.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.8,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 102.3,
+        "current_liabilities": 58.5,
+        "working_capital": 43.8,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 156.8,
+        "interest_expense": 10.2,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 266.8,
+        "gross_profit": 186.8,
+        "operating_income": 51.1,
+        "depreciation_amortization": 9.3,
+        "reported_ebitda": 60.4,
+        "normalized_ebitda": 63.2,
+        "total_qoe_addbacks": 2.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 112.1,
+        "current_liabilities": 64.0,
+        "working_capital": 48.1,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 177.0,
+        "interest_expense": 11.5,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.5,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 290.0,
+        "gross_profit": 203.0,
+        "operating_income": 57.4,
+        "depreciation_amortization": 10.2,
+        "reported_ebitda": 67.6,
+        "normalized_ebitda": 70.8,
+        "total_qoe_addbacks": 3.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 121.8,
+        "current_liabilities": 69.6,
+        "working_capital": 52.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 198.2,
+        "interest_expense": 12.9,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "GENEXIS": {
+    "cik": "0001344401",
+    "ticker": "GENEXIS",
+    "name": "Genexis Molecular Labs",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 176.4,
+        "gross_profit": 123.5,
+        "operating_income": 26.7,
+        "depreciation_amortization": 6.2,
+        "reported_ebitda": 32.9,
+        "normalized_ebitda": 34.4,
+        "total_qoe_addbacks": 1.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.0,
+          "restructuring_and_migration": 0.4
+        },
+        "current_assets": 74.1,
+        "current_liabilities": 42.3,
+        "working_capital": 31.8,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 106.6,
+        "interest_expense": 6.9,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.99,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 193.2,
+        "gross_profit": 135.2,
+        "operating_income": 30.4,
+        "depreciation_amortization": 6.8,
+        "reported_ebitda": 37.2,
+        "normalized_ebitda": 39.0,
+        "total_qoe_addbacks": 1.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.3,
+          "restructuring_and_migration": 0.5
+        },
+        "current_assets": 81.1,
+        "current_liabilities": 46.4,
+        "working_capital": 34.7,
+        "working_capital_pct_revenue": 17.96,
+        "total_debt": 120.9,
+        "interest_expense": 7.9,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.94,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 210.0,
+        "gross_profit": 147.0,
+        "operating_income": 34.5,
+        "depreciation_amortization": 7.4,
+        "reported_ebitda": 41.9,
+        "normalized_ebitda": 43.9,
+        "total_qoe_addbacks": 2.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.4,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 88.2,
+        "current_liabilities": 50.4,
+        "working_capital": 37.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 136.1,
+        "interest_expense": 8.8,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.99,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "PULSEMED": {
+    "cik": "0000072444",
+    "ticker": "PULSEMED",
+    "name": "PulseMed Surgical Robotics",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 462.0,
+        "gross_profit": 323.4,
+        "operating_income": 105.1,
+        "depreciation_amortization": 16.2,
+        "reported_ebitda": 121.3,
+        "normalized_ebitda": 127.0,
+        "total_qoe_addbacks": 5.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.0,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 194.0,
+        "current_liabilities": 110.9,
+        "working_capital": 83.1,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 292.1,
+        "interest_expense": 19.0,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.68,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 506.0,
+        "gross_profit": 354.2,
+        "operating_income": 118.6,
+        "depreciation_amortization": 17.7,
+        "reported_ebitda": 136.3,
+        "normalized_ebitda": 142.7,
+        "total_qoe_addbacks": 6.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.5,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 212.5,
+        "current_liabilities": 121.4,
+        "working_capital": 91.1,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 328.2,
+        "interest_expense": 21.3,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.7,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 550.0,
+        "gross_profit": 385.0,
+        "operating_income": 132.4,
+        "depreciation_amortization": 19.3,
+        "reported_ebitda": 151.7,
+        "normalized_ebitda": 158.9,
+        "total_qoe_addbacks": 7.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 5.0,
+          "restructuring_and_migration": 2.2
+        },
+        "current_assets": 231.0,
+        "current_liabilities": 132.0,
+        "working_capital": 99.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 365.5,
+        "interest_expense": 23.8,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.68,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "VITALIS": {
+    "cik": "0001524409",
+    "ticker": "VITALIS",
+    "name": "Vitalis Care Facilities Inc",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 520.8,
+        "gross_profit": 364.6,
+        "operating_income": 61.4,
+        "depreciation_amortization": 18.2,
+        "reported_ebitda": 79.6,
+        "normalized_ebitda": 83.3,
+        "total_qoe_addbacks": 3.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.6,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 218.7,
+        "current_liabilities": 125.0,
+        "working_capital": 93.7,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 320.7,
+        "interest_expense": 20.8,
+        "debt_to_ebitda": 3.85,
+        "interest_coverage": 4.0,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 570.4,
+        "gross_profit": 399.3,
+        "operating_income": 71.0,
+        "depreciation_amortization": 20.0,
+        "reported_ebitda": 91.0,
+        "normalized_ebitda": 95.3,
+        "total_qoe_addbacks": 4.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.0,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 239.6,
+        "current_liabilities": 136.9,
+        "working_capital": 102.7,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 366.9,
+        "interest_expense": 23.8,
+        "debt_to_ebitda": 3.85,
+        "interest_coverage": 4.0,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 620.0,
+        "gross_profit": 434.0,
+        "operating_income": 81.3,
+        "depreciation_amortization": 21.7,
+        "reported_ebitda": 103.0,
+        "normalized_ebitda": 107.9,
+        "total_qoe_addbacks": 4.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.4,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 260.4,
+        "current_liabilities": 148.8,
+        "working_capital": 111.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 415.4,
+        "interest_expense": 27.0,
+        "debt_to_ebitda": 3.85,
+        "interest_coverage": 4.0,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "OPTIPHARM": {
+    "cik": "0000078003",
+    "ticker": "OPTIPHARM",
+    "name": "OptiPharm Specialty Formulations",
+    "sector": "Healthcare & Medical Devices",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 285.6,
+        "gross_profit": 199.9,
+        "operating_income": 55.4,
+        "depreciation_amortization": 10.0,
+        "reported_ebitda": 65.4,
+        "normalized_ebitda": 68.5,
+        "total_qoe_addbacks": 3.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 120.0,
+        "current_liabilities": 68.5,
+        "working_capital": 51.5,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 178.1,
+        "interest_expense": 11.6,
+        "debt_to_ebitda": 2.6,
+        "interest_coverage": 5.91,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 312.8,
+        "gross_profit": 219.0,
+        "operating_income": 62.9,
+        "depreciation_amortization": 10.9,
+        "reported_ebitda": 73.8,
+        "normalized_ebitda": 77.3,
+        "total_qoe_addbacks": 3.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.4,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 131.4,
+        "current_liabilities": 75.1,
+        "working_capital": 56.3,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 201.0,
+        "interest_expense": 13.1,
+        "debt_to_ebitda": 2.6,
+        "interest_coverage": 5.9,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 340.0,
+        "gross_profit": 238.0,
+        "operating_income": 70.6,
+        "depreciation_amortization": 11.9,
+        "reported_ebitda": 82.5,
+        "normalized_ebitda": 86.4,
+        "total_qoe_addbacks": 3.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.7,
+          "restructuring_and_migration": 1.2
+        },
+        "current_assets": 142.8,
+        "current_liabilities": 81.6,
+        "working_capital": 61.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 224.6,
+        "interest_expense": 14.6,
+        "debt_to_ebitda": 2.6,
+        "interest_coverage": 5.92,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "PRECISION": {
+    "cik": "0000987654",
+    "ticker": "PRECISION",
+    "name": "Precision Industrial Automation",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 449.4,
+        "gross_profit": 314.6,
+        "operating_income": 55.9,
+        "depreciation_amortization": 15.7,
+        "reported_ebitda": 71.6,
+        "normalized_ebitda": 75.0,
+        "total_qoe_addbacks": 3.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.4,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 188.7,
+        "current_liabilities": 107.9,
+        "working_capital": 80.8,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 254.2,
+        "interest_expense": 16.5,
+        "debt_to_ebitda": 3.39,
+        "interest_coverage": 4.55,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 492.2,
+        "gross_profit": 344.5,
+        "operating_income": 64.5,
+        "depreciation_amortization": 17.2,
+        "reported_ebitda": 81.7,
+        "normalized_ebitda": 85.6,
+        "total_qoe_addbacks": 3.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.7,
+          "restructuring_and_migration": 1.2
+        },
+        "current_assets": 206.7,
+        "current_liabilities": 118.1,
+        "working_capital": 88.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 290.2,
+        "interest_expense": 18.9,
+        "debt_to_ebitda": 3.39,
+        "interest_coverage": 4.53,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 535.0,
+        "gross_profit": 374.5,
+        "operating_income": 73.7,
+        "depreciation_amortization": 18.7,
+        "reported_ebitda": 92.4,
+        "normalized_ebitda": 96.8,
+        "total_qoe_addbacks": 4.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.1,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 224.7,
+        "current_liabilities": 128.4,
+        "working_capital": 96.3,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 328.2,
+        "interest_expense": 21.3,
+        "debt_to_ebitda": 3.39,
+        "interest_coverage": 4.54,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "AEROVECTOR": {
+    "cik": "0000091419",
+    "ticker": "AEROVECTOR",
+    "name": "AeroVector Defense Systems",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 630.0,
+        "gross_profit": 441.0,
+        "operating_income": 98.2,
+        "depreciation_amortization": 22.1,
+        "reported_ebitda": 120.3,
+        "normalized_ebitda": 126.0,
+        "total_qoe_addbacks": 5.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.0,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 264.6,
+        "current_liabilities": 151.2,
+        "working_capital": 113.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 365.4,
+        "interest_expense": 23.8,
+        "debt_to_ebitda": 2.9,
+        "interest_coverage": 5.29,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 690.0,
+        "gross_profit": 483.0,
+        "operating_income": 112.2,
+        "depreciation_amortization": 24.2,
+        "reported_ebitda": 136.4,
+        "normalized_ebitda": 142.8,
+        "total_qoe_addbacks": 6.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.5,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 289.8,
+        "current_liabilities": 165.6,
+        "working_capital": 124.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 414.1,
+        "interest_expense": 26.9,
+        "debt_to_ebitda": 2.9,
+        "interest_coverage": 5.31,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 750.0,
+        "gross_profit": 525.0,
+        "operating_income": 127.0,
+        "depreciation_amortization": 26.3,
+        "reported_ebitda": 153.3,
+        "normalized_ebitda": 160.5,
+        "total_qoe_addbacks": 7.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 5.0,
+          "restructuring_and_migration": 2.2
+        },
+        "current_assets": 315.0,
+        "current_liabilities": 180.0,
+        "working_capital": 135.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 465.4,
+        "interest_expense": 30.3,
+        "debt_to_ebitda": 2.9,
+        "interest_coverage": 5.3,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "KINETIC": {
+    "cik": "0000055135",
+    "ticker": "KINETIC",
+    "name": "Kinetic Robotics & Powertrain",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 344.4,
+        "gross_profit": 241.1,
+        "operating_income": 37.3,
+        "depreciation_amortization": 12.1,
+        "reported_ebitda": 49.4,
+        "normalized_ebitda": 51.7,
+        "total_qoe_addbacks": 2.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.6,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 144.6,
+        "current_liabilities": 82.7,
+        "working_capital": 61.9,
+        "working_capital_pct_revenue": 17.97,
+        "total_debt": 181.0,
+        "interest_expense": 11.8,
+        "debt_to_ebitda": 3.5,
+        "interest_coverage": 4.38,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 377.2,
+        "gross_profit": 264.0,
+        "operating_income": 43.3,
+        "depreciation_amortization": 13.2,
+        "reported_ebitda": 56.5,
+        "normalized_ebitda": 59.2,
+        "total_qoe_addbacks": 2.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.9,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 158.4,
+        "current_liabilities": 90.5,
+        "working_capital": 67.9,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 207.2,
+        "interest_expense": 13.5,
+        "debt_to_ebitda": 3.5,
+        "interest_coverage": 4.39,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 410.0,
+        "gross_profit": 287.0,
+        "operating_income": 49.8,
+        "depreciation_amortization": 14.4,
+        "reported_ebitda": 64.2,
+        "normalized_ebitda": 67.2,
+        "total_qoe_addbacks": 3.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.1,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 172.2,
+        "current_liabilities": 98.4,
+        "working_capital": 73.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 235.2,
+        "interest_expense": 15.3,
+        "debt_to_ebitda": 3.5,
+        "interest_coverage": 4.39,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "TURBOPAK": {
+    "cik": "0000030554",
+    "ticker": "TURBOPAK",
+    "name": "TurboPak Heavy Machinery",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 571.2,
+        "gross_profit": 399.8,
+        "operating_income": 75.5,
+        "depreciation_amortization": 20.0,
+        "reported_ebitda": 95.5,
+        "normalized_ebitda": 100.0,
+        "total_qoe_addbacks": 4.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.1,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 239.9,
+        "current_liabilities": 137.1,
+        "working_capital": 102.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 315.0,
+        "interest_expense": 20.5,
+        "debt_to_ebitda": 3.15,
+        "interest_coverage": 4.88,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 625.6,
+        "gross_profit": 437.9,
+        "operating_income": 86.9,
+        "depreciation_amortization": 21.9,
+        "reported_ebitda": 108.8,
+        "normalized_ebitda": 113.9,
+        "total_qoe_addbacks": 5.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.6,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 262.8,
+        "current_liabilities": 150.1,
+        "working_capital": 112.7,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 358.8,
+        "interest_expense": 23.3,
+        "debt_to_ebitda": 3.15,
+        "interest_coverage": 4.89,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 680.0,
+        "gross_profit": 476.0,
+        "operating_income": 98.9,
+        "depreciation_amortization": 23.8,
+        "reported_ebitda": 122.7,
+        "normalized_ebitda": 128.5,
+        "total_qoe_addbacks": 5.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.1,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 285.6,
+        "current_liabilities": 163.2,
+        "working_capital": 122.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 404.8,
+        "interest_expense": 26.3,
+        "debt_to_ebitda": 3.15,
+        "interest_coverage": 4.89,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "HYDRAFLOW": {
+    "cik": "0000076334",
+    "ticker": "HYDRAFLOW",
+    "name": "HydraFlow Valves & Controls",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 268.8,
+        "gross_profit": 188.2,
+        "operating_income": 39.4,
+        "depreciation_amortization": 9.4,
+        "reported_ebitda": 48.8,
+        "normalized_ebitda": 51.1,
+        "total_qoe_addbacks": 2.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.6,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 112.9,
+        "current_liabilities": 64.5,
+        "working_capital": 48.4,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 143.1,
+        "interest_expense": 9.3,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 294.4,
+        "gross_profit": 206.1,
+        "operating_income": 45.1,
+        "depreciation_amortization": 10.3,
+        "reported_ebitda": 55.4,
+        "normalized_ebitda": 58.0,
+        "total_qoe_addbacks": 2.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.8,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 123.6,
+        "current_liabilities": 70.7,
+        "working_capital": 52.9,
+        "working_capital_pct_revenue": 17.97,
+        "total_debt": 162.4,
+        "interest_expense": 10.6,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.47,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 320.0,
+        "gross_profit": 224.0,
+        "operating_income": 51.2,
+        "depreciation_amortization": 11.2,
+        "reported_ebitda": 62.4,
+        "normalized_ebitda": 65.3,
+        "total_qoe_addbacks": 2.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 134.4,
+        "current_liabilities": 76.8,
+        "working_capital": 57.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 182.8,
+        "interest_expense": 11.9,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "FORGETECH": {
+    "cik": "0000093634",
+    "ticker": "FORGETECH",
+    "name": "ForgeTech Advanced Alloys",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 386.4,
+        "gross_profit": 270.5,
+        "operating_income": 38.2,
+        "depreciation_amortization": 13.5,
+        "reported_ebitda": 51.7,
+        "normalized_ebitda": 54.1,
+        "total_qoe_addbacks": 2.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.7,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 162.3,
+        "current_liabilities": 92.7,
+        "working_capital": 69.6,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 200.2,
+        "interest_expense": 13.0,
+        "debt_to_ebitda": 3.7,
+        "interest_coverage": 4.16,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 423.2,
+        "gross_profit": 296.2,
+        "operating_income": 44.6,
+        "depreciation_amortization": 14.8,
+        "reported_ebitda": 59.4,
+        "normalized_ebitda": 62.2,
+        "total_qoe_addbacks": 2.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 177.7,
+        "current_liabilities": 101.6,
+        "working_capital": 76.1,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 230.1,
+        "interest_expense": 15.0,
+        "debt_to_ebitda": 3.7,
+        "interest_coverage": 4.15,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 460.0,
+        "gross_profit": 322.0,
+        "operating_income": 51.5,
+        "depreciation_amortization": 16.1,
+        "reported_ebitda": 67.6,
+        "normalized_ebitda": 70.8,
+        "total_qoe_addbacks": 3.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 193.2,
+        "current_liabilities": 110.4,
+        "working_capital": 82.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 262.0,
+        "interest_expense": 17.0,
+        "debt_to_ebitda": 3.7,
+        "interest_coverage": 4.16,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CIRCUITEK": {
+    "cik": "0000789019",
+    "ticker": "CIRCUITEK",
+    "name": "CircuiTek Embedded Modules",
+    "sector": "Industrial Automation & Aerospace",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 231.0,
+        "gross_profit": 161.7,
+        "operating_income": 38.2,
+        "depreciation_amortization": 8.1,
+        "reported_ebitda": 46.3,
+        "normalized_ebitda": 48.5,
+        "total_qoe_addbacks": 2.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.5,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 97.0,
+        "current_liabilities": 55.4,
+        "working_capital": 41.6,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 118.8,
+        "interest_expense": 7.7,
+        "debt_to_ebitda": 2.45,
+        "interest_coverage": 6.3,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 253.0,
+        "gross_profit": 177.1,
+        "operating_income": 43.5,
+        "depreciation_amortization": 8.9,
+        "reported_ebitda": 52.4,
+        "normalized_ebitda": 54.9,
+        "total_qoe_addbacks": 2.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.8,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 106.3,
+        "current_liabilities": 60.7,
+        "working_capital": 45.6,
+        "working_capital_pct_revenue": 18.02,
+        "total_debt": 134.5,
+        "interest_expense": 8.7,
+        "debt_to_ebitda": 2.45,
+        "interest_coverage": 6.31,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 275.0,
+        "gross_profit": 192.5,
+        "operating_income": 49.2,
+        "depreciation_amortization": 9.6,
+        "reported_ebitda": 58.8,
+        "normalized_ebitda": 61.6,
+        "total_qoe_addbacks": 2.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 115.5,
+        "current_liabilities": 66.0,
+        "working_capital": 49.5,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 150.9,
+        "interest_expense": 9.8,
+        "debt_to_ebitda": 2.45,
+        "interest_coverage": 6.29,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "VELOCE": {
+    "cik": "0001397187",
+    "ticker": "VELOCE",
+    "name": "Veloce Athletic Apparel Group",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 688.8,
+        "gross_profit": 482.2,
+        "operating_income": 91.0,
+        "depreciation_amortization": 24.1,
+        "reported_ebitda": 115.1,
+        "normalized_ebitda": 120.5,
+        "total_qoe_addbacks": 5.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.8,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 289.3,
+        "current_liabilities": 165.3,
+        "working_capital": 124.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 253.1,
+        "interest_expense": 16.5,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.3,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 754.4,
+        "gross_profit": 528.1,
+        "operating_income": 104.7,
+        "depreciation_amortization": 26.4,
+        "reported_ebitda": 131.1,
+        "normalized_ebitda": 137.3,
+        "total_qoe_addbacks": 6.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.3,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 316.8,
+        "current_liabilities": 181.1,
+        "working_capital": 135.7,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 288.3,
+        "interest_expense": 18.7,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.34,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 820.0,
+        "gross_profit": 574.0,
+        "operating_income": 119.3,
+        "depreciation_amortization": 28.7,
+        "reported_ebitda": 148.0,
+        "normalized_ebitda": 155.0,
+        "total_qoe_addbacks": 7.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.9,
+          "restructuring_and_migration": 2.1
+        },
+        "current_assets": 344.4,
+        "current_liabilities": 196.8,
+        "working_capital": 147.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 325.5,
+        "interest_expense": 21.2,
+        "debt_to_ebitda": 2.1,
+        "interest_coverage": 7.31,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "BEVTREND": {
+    "cik": "0000865752",
+    "ticker": "BEVTREND",
+    "name": "BevTrend Organic Beverages",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 378.0,
+        "gross_profit": 264.6,
+        "operating_income": 75.2,
+        "depreciation_amortization": 13.2,
+        "reported_ebitda": 88.4,
+        "normalized_ebitda": 92.6,
+        "total_qoe_addbacks": 4.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.9,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 158.8,
+        "current_liabilities": 90.7,
+        "working_capital": 68.1,
+        "working_capital_pct_revenue": 18.02,
+        "total_debt": 162.0,
+        "interest_expense": 10.5,
+        "debt_to_ebitda": 1.75,
+        "interest_coverage": 8.82,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 414.0,
+        "gross_profit": 289.8,
+        "operating_income": 85.1,
+        "depreciation_amortization": 14.5,
+        "reported_ebitda": 99.6,
+        "normalized_ebitda": 104.3,
+        "total_qoe_addbacks": 4.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.3,
+          "restructuring_and_migration": 1.4
+        },
+        "current_assets": 173.9,
+        "current_liabilities": 99.4,
+        "working_capital": 74.5,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 182.5,
+        "interest_expense": 11.9,
+        "debt_to_ebitda": 1.75,
+        "interest_coverage": 8.76,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 450.0,
+        "gross_profit": 315.0,
+        "operating_income": 95.5,
+        "depreciation_amortization": 15.8,
+        "reported_ebitda": 111.3,
+        "normalized_ebitda": 116.5,
+        "total_qoe_addbacks": 5.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.6,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 189.0,
+        "current_liabilities": 108.0,
+        "working_capital": 81.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 203.9,
+        "interest_expense": 13.3,
+        "debt_to_ebitda": 1.75,
+        "interest_coverage": 8.76,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "PUREGLOW": {
+    "cik": "0001403568",
+    "ticker": "PUREGLOW",
+    "name": "PureGlow Beauty & Cosmetics",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 327.6,
+        "gross_profit": 229.3,
+        "operating_income": 51.1,
+        "depreciation_amortization": 11.5,
+        "reported_ebitda": 62.6,
+        "normalized_ebitda": 65.5,
+        "total_qoe_addbacks": 2.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 137.6,
+        "current_liabilities": 78.6,
+        "working_capital": 59.0,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 150.6,
+        "interest_expense": 9.8,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.68,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 358.8,
+        "gross_profit": 251.2,
+        "operating_income": 58.4,
+        "depreciation_amortization": 12.6,
+        "reported_ebitda": 71.0,
+        "normalized_ebitda": 74.3,
+        "total_qoe_addbacks": 3.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.3,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 150.7,
+        "current_liabilities": 86.1,
+        "working_capital": 64.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 170.9,
+        "interest_expense": 11.1,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.69,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 390.0,
+        "gross_profit": 273.0,
+        "operating_income": 66.0,
+        "depreciation_amortization": 13.7,
+        "reported_ebitda": 79.7,
+        "normalized_ebitda": 83.5,
+        "total_qoe_addbacks": 3.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.7,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 163.8,
+        "current_liabilities": 93.6,
+        "working_capital": 70.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 192.0,
+        "interest_expense": 12.5,
+        "debt_to_ebitda": 2.3,
+        "interest_coverage": 6.68,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "URBANHOME": {
+    "cik": "0000913142",
+    "ticker": "URBANHOME",
+    "name": "UrbanHome Direct Furnishings",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 428.4,
+        "gross_profit": 299.9,
+        "operating_income": 36.1,
+        "depreciation_amortization": 15.0,
+        "reported_ebitda": 51.1,
+        "normalized_ebitda": 53.5,
+        "total_qoe_addbacks": 2.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.7,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 179.9,
+        "current_liabilities": 102.8,
+        "working_capital": 77.1,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 173.9,
+        "interest_expense": 11.3,
+        "debt_to_ebitda": 3.25,
+        "interest_coverage": 4.73,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 469.2,
+        "gross_profit": 328.4,
+        "operating_income": 42.7,
+        "depreciation_amortization": 16.4,
+        "reported_ebitda": 59.1,
+        "normalized_ebitda": 61.9,
+        "total_qoe_addbacks": 2.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 197.1,
+        "current_liabilities": 112.6,
+        "working_capital": 84.5,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 201.2,
+        "interest_expense": 13.1,
+        "debt_to_ebitda": 3.25,
+        "interest_coverage": 4.73,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 510.0,
+        "gross_profit": 357.0,
+        "operating_income": 49.8,
+        "depreciation_amortization": 17.9,
+        "reported_ebitda": 67.7,
+        "normalized_ebitda": 70.9,
+        "total_qoe_addbacks": 3.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 214.2,
+        "current_liabilities": 122.4,
+        "working_capital": 91.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 230.4,
+        "interest_expense": 15.0,
+        "debt_to_ebitda": 3.25,
+        "interest_coverage": 4.73,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "PETNOURISH": {
+    "cik": "0001764423",
+    "ticker": "PETNOURISH",
+    "name": "PetNourish Premium Petcare",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 243.6,
+        "gross_profit": 170.5,
+        "operating_income": 27.6,
+        "depreciation_amortization": 8.5,
+        "reported_ebitda": 36.1,
+        "normalized_ebitda": 37.8,
+        "total_qoe_addbacks": 1.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.2,
+          "restructuring_and_migration": 0.5
+        },
+        "current_assets": 102.3,
+        "current_liabilities": 58.5,
+        "working_capital": 43.8,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 105.8,
+        "interest_expense": 6.9,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.48,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 266.8,
+        "gross_profit": 186.8,
+        "operating_income": 32.0,
+        "depreciation_amortization": 9.3,
+        "reported_ebitda": 41.3,
+        "normalized_ebitda": 43.2,
+        "total_qoe_addbacks": 1.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.3,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 112.1,
+        "current_liabilities": 64.0,
+        "working_capital": 48.1,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 121.0,
+        "interest_expense": 7.9,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.47,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 290.0,
+        "gross_profit": 203.0,
+        "operating_income": 36.6,
+        "depreciation_amortization": 10.2,
+        "reported_ebitda": 46.8,
+        "normalized_ebitda": 49.0,
+        "total_qoe_addbacks": 2.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.5,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 121.8,
+        "current_liabilities": 69.6,
+        "working_capital": 52.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 137.2,
+        "interest_expense": 8.9,
+        "debt_to_ebitda": 2.8,
+        "interest_coverage": 5.51,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "GOURMETB": {
+    "cik": "0001099801",
+    "ticker": "GOURMETB",
+    "name": "GourmetBlend Artisan Foods",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 277.2,
+        "gross_profit": 194.0,
+        "operating_income": 27.4,
+        "depreciation_amortization": 9.7,
+        "reported_ebitda": 37.1,
+        "normalized_ebitda": 38.8,
+        "total_qoe_addbacks": 1.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.2,
+          "restructuring_and_migration": 0.5
+        },
+        "current_assets": 116.4,
+        "current_liabilities": 66.5,
+        "working_capital": 49.9,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 114.5,
+        "interest_expense": 7.4,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.24,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 303.6,
+        "gross_profit": 212.5,
+        "operating_income": 32.0,
+        "depreciation_amortization": 10.6,
+        "reported_ebitda": 42.6,
+        "normalized_ebitda": 44.6,
+        "total_qoe_addbacks": 2.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.4,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 127.5,
+        "current_liabilities": 72.9,
+        "working_capital": 54.6,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 131.6,
+        "interest_expense": 8.6,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.19,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 330.0,
+        "gross_profit": 231.0,
+        "operating_income": 36.9,
+        "depreciation_amortization": 11.6,
+        "reported_ebitda": 48.5,
+        "normalized_ebitda": 50.8,
+        "total_qoe_addbacks": 2.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.6,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 138.6,
+        "current_liabilities": 79.2,
+        "working_capital": 59.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 149.9,
+        "interest_expense": 9.7,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.24,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "OUTDOORX": {
+    "cik": "0001644409",
+    "ticker": "OUTDOORX",
+    "name": "OutdoorX Gear & Recreation",
+    "sector": "Consumer & E-Commerce Retail",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 352.8,
+        "gross_profit": 247.0,
+        "operating_income": 45.0,
+        "depreciation_amortization": 12.3,
+        "reported_ebitda": 57.3,
+        "normalized_ebitda": 60.0,
+        "total_qoe_addbacks": 2.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.9,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 148.2,
+        "current_liabilities": 84.7,
+        "working_capital": 63.5,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 144.0,
+        "interest_expense": 9.4,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.38,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 386.4,
+        "gross_profit": 270.5,
+        "operating_income": 51.8,
+        "depreciation_amortization": 13.5,
+        "reported_ebitda": 65.3,
+        "normalized_ebitda": 68.4,
+        "total_qoe_addbacks": 3.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 162.3,
+        "current_liabilities": 92.7,
+        "working_capital": 69.6,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 164.2,
+        "interest_expense": 10.7,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.39,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 420.0,
+        "gross_profit": 294.0,
+        "operating_income": 59.1,
+        "depreciation_amortization": 14.7,
+        "reported_ebitda": 73.8,
+        "normalized_ebitda": 77.3,
+        "total_qoe_addbacks": 3.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.4,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 176.4,
+        "current_liabilities": 100.8,
+        "working_capital": 75.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 185.5,
+        "interest_expense": 12.1,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.39,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "FINPAY": {
+    "cik": "0000877212",
+    "ticker": "FINPAY",
+    "name": "FinPay Payments Network",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 798.0,
+        "gross_profit": 558.6,
+        "operating_income": 250.3,
+        "depreciation_amortization": 27.9,
+        "reported_ebitda": 278.2,
+        "normalized_ebitda": 291.3,
+        "total_qoe_addbacks": 13.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 9.2,
+          "restructuring_and_migration": 3.9
+        },
+        "current_assets": 335.2,
+        "current_liabilities": 191.5,
+        "working_capital": 143.7,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 903.0,
+        "interest_expense": 58.7,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.96,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 874.0,
+        "gross_profit": 611.8,
+        "operating_income": 279.9,
+        "depreciation_amortization": 30.6,
+        "reported_ebitda": 310.5,
+        "normalized_ebitda": 325.1,
+        "total_qoe_addbacks": 14.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 10.2,
+          "restructuring_and_migration": 4.4
+        },
+        "current_assets": 367.1,
+        "current_liabilities": 209.8,
+        "working_capital": 157.3,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 1007.8,
+        "interest_expense": 65.5,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.96,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 950.0,
+        "gross_profit": 665.0,
+        "operating_income": 310.7,
+        "depreciation_amortization": 33.2,
+        "reported_ebitda": 343.9,
+        "normalized_ebitda": 360.1,
+        "total_qoe_addbacks": 16.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 11.3,
+          "restructuring_and_migration": 4.9
+        },
+        "current_assets": 399.0,
+        "current_liabilities": 228.0,
+        "working_capital": 171.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 1116.3,
+        "interest_expense": 72.6,
+        "debt_to_ebitda": 3.1,
+        "interest_coverage": 4.96,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "LEDGERIX": {
+    "cik": "0001383312",
+    "ticker": "LEDGERIX",
+    "name": "Ledgerix Wealth Tech Systems",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 319.2,
+        "gross_profit": 223.4,
+        "operating_income": 80.3,
+        "depreciation_amortization": 11.2,
+        "reported_ebitda": 91.5,
+        "normalized_ebitda": 95.8,
+        "total_qoe_addbacks": 4.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.0,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 134.1,
+        "current_liabilities": 76.6,
+        "working_capital": 57.5,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 210.8,
+        "interest_expense": 13.7,
+        "debt_to_ebitda": 2.2,
+        "interest_coverage": 6.99,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 349.6,
+        "gross_profit": 244.7,
+        "operating_income": 90.3,
+        "depreciation_amortization": 12.2,
+        "reported_ebitda": 102.5,
+        "normalized_ebitda": 107.3,
+        "total_qoe_addbacks": 4.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.4,
+          "restructuring_and_migration": 1.4
+        },
+        "current_assets": 146.8,
+        "current_liabilities": 83.9,
+        "working_capital": 62.9,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 236.1,
+        "interest_expense": 15.3,
+        "debt_to_ebitda": 2.2,
+        "interest_coverage": 7.01,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 380.0,
+        "gross_profit": 266.0,
+        "operating_income": 100.6,
+        "depreciation_amortization": 13.3,
+        "reported_ebitda": 113.9,
+        "normalized_ebitda": 119.3,
+        "total_qoe_addbacks": 5.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.8,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 159.6,
+        "current_liabilities": 91.2,
+        "working_capital": 68.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 262.5,
+        "interest_expense": 17.1,
+        "debt_to_ebitda": 2.2,
+        "interest_coverage": 6.98,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CREDITLENS": {
+    "cik": "0001054290",
+    "ticker": "CREDITLENS",
+    "name": "CreditLens Risk Analytics",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 352.8,
+        "gross_profit": 247.0,
+        "operating_income": 97.2,
+        "depreciation_amortization": 12.3,
+        "reported_ebitda": 109.5,
+        "normalized_ebitda": 114.7,
+        "total_qoe_addbacks": 5.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.6,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 148.2,
+        "current_liabilities": 84.7,
+        "working_capital": 63.5,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 286.8,
+        "interest_expense": 18.6,
+        "debt_to_ebitda": 2.5,
+        "interest_coverage": 6.17,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 386.4,
+        "gross_profit": 270.5,
+        "operating_income": 109.0,
+        "depreciation_amortization": 13.5,
+        "reported_ebitda": 122.5,
+        "normalized_ebitda": 128.3,
+        "total_qoe_addbacks": 5.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.1,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 162.3,
+        "current_liabilities": 92.7,
+        "working_capital": 69.6,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 320.8,
+        "interest_expense": 20.9,
+        "debt_to_ebitda": 2.5,
+        "interest_coverage": 6.14,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 420.0,
+        "gross_profit": 294.0,
+        "operating_income": 121.3,
+        "depreciation_amortization": 14.7,
+        "reported_ebitda": 136.0,
+        "normalized_ebitda": 142.4,
+        "total_qoe_addbacks": 6.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.5,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 176.4,
+        "current_liabilities": 100.8,
+        "working_capital": 75.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 356.0,
+        "interest_expense": 23.1,
+        "debt_to_ebitda": 2.5,
+        "interest_coverage": 6.16,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CLEARSETTLE": {
+    "cik": "0001141391",
+    "ticker": "CLEARSETTLE",
+    "name": "ClearSettle Clearinghouse Inc",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 512.4,
+        "gross_profit": 358.7,
+        "operating_income": 175.4,
+        "depreciation_amortization": 17.9,
+        "reported_ebitda": 193.3,
+        "normalized_ebitda": 202.4,
+        "total_qoe_addbacks": 9.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 6.4,
+          "restructuring_and_migration": 2.7
+        },
+        "current_assets": 215.2,
+        "current_liabilities": 123.0,
+        "working_capital": 92.2,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 384.6,
+        "interest_expense": 25.0,
+        "debt_to_ebitda": 1.9,
+        "interest_coverage": 8.1,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 561.2,
+        "gross_profit": 392.8,
+        "operating_income": 195.8,
+        "depreciation_amortization": 19.6,
+        "reported_ebitda": 215.4,
+        "normalized_ebitda": 225.6,
+        "total_qoe_addbacks": 10.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 7.1,
+          "restructuring_and_migration": 3.1
+        },
+        "current_assets": 235.7,
+        "current_liabilities": 134.7,
+        "working_capital": 101.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 428.6,
+        "interest_expense": 27.9,
+        "debt_to_ebitda": 1.9,
+        "interest_coverage": 8.09,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 610.0,
+        "gross_profit": 427.0,
+        "operating_income": 216.9,
+        "depreciation_amortization": 21.4,
+        "reported_ebitda": 238.3,
+        "normalized_ebitda": 249.5,
+        "total_qoe_addbacks": 11.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 7.8,
+          "restructuring_and_migration": 3.4
+        },
+        "current_assets": 256.2,
+        "current_liabilities": 146.4,
+        "working_capital": 109.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 474.0,
+        "interest_expense": 30.8,
+        "debt_to_ebitda": 1.9,
+        "interest_coverage": 8.1,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "INSURASOFT": {
+    "cik": "0001544405",
+    "ticker": "INSURASOFT",
+    "name": "InsuraSoft Policy Cloud",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 218.4,
+        "gross_profit": 152.9,
+        "operating_income": 46.6,
+        "depreciation_amortization": 7.6,
+        "reported_ebitda": 54.2,
+        "normalized_ebitda": 56.8,
+        "total_qoe_addbacks": 2.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.8,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 91.7,
+        "current_liabilities": 52.4,
+        "working_capital": 39.3,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 136.3,
+        "interest_expense": 8.9,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.38,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 239.2,
+        "gross_profit": 167.4,
+        "operating_income": 52.6,
+        "depreciation_amortization": 8.4,
+        "reported_ebitda": 61.0,
+        "normalized_ebitda": 63.9,
+        "total_qoe_addbacks": 2.9,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 100.5,
+        "current_liabilities": 57.4,
+        "working_capital": 43.1,
+        "working_capital_pct_revenue": 18.02,
+        "total_debt": 153.4,
+        "interest_expense": 10.0,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.39,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 260.0,
+        "gross_profit": 182.0,
+        "operating_income": 58.9,
+        "depreciation_amortization": 9.1,
+        "reported_ebitda": 68.0,
+        "normalized_ebitda": 71.2,
+        "total_qoe_addbacks": 3.2,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 109.2,
+        "current_liabilities": 62.4,
+        "working_capital": 46.8,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 170.9,
+        "interest_expense": 11.1,
+        "debt_to_ebitda": 2.4,
+        "interest_coverage": 6.41,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "QUANTMARKET": {
+    "cik": "0001424407",
+    "ticker": "QUANTMARKET",
+    "name": "QuantMarket Securities Feed",
+    "sector": "FinTech & Financial Infrastructure",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 285.6,
+        "gross_profit": 199.9,
+        "operating_income": 84.1,
+        "depreciation_amortization": 10.0,
+        "reported_ebitda": 94.1,
+        "normalized_ebitda": 98.5,
+        "total_qoe_addbacks": 4.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.1,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 120.0,
+        "current_liabilities": 68.5,
+        "working_capital": 51.5,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 201.9,
+        "interest_expense": 13.1,
+        "debt_to_ebitda": 2.05,
+        "interest_coverage": 7.52,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 312.8,
+        "gross_profit": 219.0,
+        "operating_income": 94.2,
+        "depreciation_amortization": 10.9,
+        "reported_ebitda": 105.1,
+        "normalized_ebitda": 110.1,
+        "total_qoe_addbacks": 5.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.5,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 131.4,
+        "current_liabilities": 75.1,
+        "working_capital": 56.3,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 225.7,
+        "interest_expense": 14.7,
+        "debt_to_ebitda": 2.05,
+        "interest_coverage": 7.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 340.0,
+        "gross_profit": 238.0,
+        "operating_income": 104.7,
+        "depreciation_amortization": 11.9,
+        "reported_ebitda": 116.6,
+        "normalized_ebitda": 122.1,
+        "total_qoe_addbacks": 5.5,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.8,
+          "restructuring_and_migration": 1.6
+        },
+        "current_assets": 142.8,
+        "current_liabilities": 81.6,
+        "working_capital": 61.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 250.3,
+        "interest_expense": 16.3,
+        "debt_to_ebitda": 2.05,
+        "interest_coverage": 7.49,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "SOLARIS": {
+    "cik": "0001463101",
+    "ticker": "SOLARIS",
+    "name": "Solaris Photovoltaic Systems",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 546.0,
+        "gross_profit": 382.2,
+        "operating_income": 87.8,
+        "depreciation_amortization": 19.1,
+        "reported_ebitda": 106.9,
+        "normalized_ebitda": 111.9,
+        "total_qoe_addbacks": 5.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.5,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 229.3,
+        "current_liabilities": 131.0,
+        "working_capital": 98.3,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 330.1,
+        "interest_expense": 21.5,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.2,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 598.0,
+        "gross_profit": 418.6,
+        "operating_income": 100.2,
+        "depreciation_amortization": 20.9,
+        "reported_ebitda": 121.1,
+        "normalized_ebitda": 126.8,
+        "total_qoe_addbacks": 5.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.0,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 251.2,
+        "current_liabilities": 143.5,
+        "working_capital": 107.7,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 374.1,
+        "interest_expense": 24.3,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.22,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 650.0,
+        "gross_profit": 455.0,
+        "operating_income": 113.1,
+        "depreciation_amortization": 22.8,
+        "reported_ebitda": 135.9,
+        "normalized_ebitda": 142.3,
+        "total_qoe_addbacks": 6.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 4.5,
+          "restructuring_and_migration": 1.9
+        },
+        "current_assets": 273.0,
+        "current_liabilities": 156.0,
+        "working_capital": 117.0,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 419.8,
+        "interest_expense": 27.3,
+        "debt_to_ebitda": 2.95,
+        "interest_coverage": 5.21,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "VOLTSTORAGE": {
+    "cik": "0001744408",
+    "ticker": "VOLTSTORAGE",
+    "name": "VoltStorage Grid Energy",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 319.2,
+        "gross_profit": 223.4,
+        "operating_income": 40.7,
+        "depreciation_amortization": 11.2,
+        "reported_ebitda": 51.9,
+        "normalized_ebitda": 54.3,
+        "total_qoe_addbacks": 2.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.7,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 134.1,
+        "current_liabilities": 76.6,
+        "working_capital": 57.5,
+        "working_capital_pct_revenue": 18.01,
+        "total_debt": 195.5,
+        "interest_expense": 12.7,
+        "debt_to_ebitda": 3.6,
+        "interest_coverage": 4.28,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 349.6,
+        "gross_profit": 244.7,
+        "operating_income": 46.9,
+        "depreciation_amortization": 12.2,
+        "reported_ebitda": 59.1,
+        "normalized_ebitda": 61.9,
+        "total_qoe_addbacks": 2.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.0,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 146.8,
+        "current_liabilities": 83.9,
+        "working_capital": 62.9,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 222.8,
+        "interest_expense": 14.5,
+        "debt_to_ebitda": 3.6,
+        "interest_coverage": 4.27,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 380.0,
+        "gross_profit": 266.0,
+        "operating_income": 53.5,
+        "depreciation_amortization": 13.3,
+        "reported_ebitda": 66.8,
+        "normalized_ebitda": 69.9,
+        "total_qoe_addbacks": 3.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.2,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 159.6,
+        "current_liabilities": 91.2,
+        "working_capital": 68.4,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 251.6,
+        "interest_expense": 16.4,
+        "debt_to_ebitda": 3.6,
+        "interest_coverage": 4.26,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "AEROPOWER": {
+    "cik": "0001114402",
+    "ticker": "AEROPOWER",
+    "name": "AeroPower Wind Generation",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 436.8,
+        "gross_profit": 305.8,
+        "operating_income": 78.6,
+        "depreciation_amortization": 15.3,
+        "reported_ebitda": 93.9,
+        "normalized_ebitda": 98.3,
+        "total_qoe_addbacks": 4.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.1,
+          "restructuring_and_migration": 1.3
+        },
+        "current_assets": 183.5,
+        "current_liabilities": 104.8,
+        "working_capital": 78.7,
+        "working_capital_pct_revenue": 18.02,
+        "total_debt": 334.2,
+        "interest_expense": 21.7,
+        "debt_to_ebitda": 3.4,
+        "interest_coverage": 4.53,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 478.4,
+        "gross_profit": 334.9,
+        "operating_income": 89.3,
+        "depreciation_amortization": 16.7,
+        "reported_ebitda": 106.0,
+        "normalized_ebitda": 111.0,
+        "total_qoe_addbacks": 5.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.5,
+          "restructuring_and_migration": 1.5
+        },
+        "current_assets": 200.9,
+        "current_liabilities": 114.8,
+        "working_capital": 86.1,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 377.4,
+        "interest_expense": 24.5,
+        "debt_to_ebitda": 3.4,
+        "interest_coverage": 4.53,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 520.0,
+        "gross_profit": 364.0,
+        "operating_income": 100.5,
+        "depreciation_amortization": 18.2,
+        "reported_ebitda": 118.7,
+        "normalized_ebitda": 124.3,
+        "total_qoe_addbacks": 5.6,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 3.9,
+          "restructuring_and_migration": 1.7
+        },
+        "current_assets": 218.4,
+        "current_liabilities": 124.8,
+        "working_capital": 93.6,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 422.6,
+        "interest_expense": 27.5,
+        "debt_to_ebitda": 3.4,
+        "interest_coverage": 4.52,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "CLEANHYDRO": {
+    "cik": "0001814403",
+    "ticker": "CLEANHYDRO",
+    "name": "CleanHydro Electrolyzer Corp",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 159.6,
+        "gross_profit": 111.7,
+        "operating_income": 14.9,
+        "depreciation_amortization": 5.6,
+        "reported_ebitda": 20.5,
+        "normalized_ebitda": 21.5,
+        "total_qoe_addbacks": 1.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.7,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 67.0,
+        "current_liabilities": 38.3,
+        "working_capital": 28.7,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 83.8,
+        "interest_expense": 5.4,
+        "debt_to_ebitda": 3.9,
+        "interest_coverage": 3.98,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 174.8,
+        "gross_profit": 122.4,
+        "operating_income": 17.6,
+        "depreciation_amortization": 6.1,
+        "reported_ebitda": 23.7,
+        "normalized_ebitda": 24.8,
+        "total_qoe_addbacks": 1.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.8,
+          "restructuring_and_migration": 0.3
+        },
+        "current_assets": 73.4,
+        "current_liabilities": 42.0,
+        "working_capital": 31.4,
+        "working_capital_pct_revenue": 17.96,
+        "total_debt": 96.7,
+        "interest_expense": 6.3,
+        "debt_to_ebitda": 3.9,
+        "interest_coverage": 3.94,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 190.0,
+        "gross_profit": 133.0,
+        "operating_income": 20.3,
+        "depreciation_amortization": 6.7,
+        "reported_ebitda": 27.0,
+        "normalized_ebitda": 28.3,
+        "total_qoe_addbacks": 1.3,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 0.9,
+          "restructuring_and_migration": 0.4
+        },
+        "current_assets": 79.8,
+        "current_liabilities": 45.6,
+        "working_capital": 34.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 110.4,
+        "interest_expense": 7.2,
+        "debt_to_ebitda": 3.9,
+        "interest_coverage": 3.93,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "ECOGRID": {
+    "cik": "0001614404",
+    "ticker": "ECOGRID",
+    "name": "EcoGrid Smart Metering Inc",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 243.6,
+        "gross_profit": 170.5,
+        "operating_income": 36.9,
+        "depreciation_amortization": 8.5,
+        "reported_ebitda": 45.4,
+        "normalized_ebitda": 47.5,
+        "total_qoe_addbacks": 2.1,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.5,
+          "restructuring_and_migration": 0.6
+        },
+        "current_assets": 102.3,
+        "current_liabilities": 58.5,
+        "working_capital": 43.8,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 130.6,
+        "interest_expense": 8.5,
+        "debt_to_ebitda": 2.75,
+        "interest_coverage": 5.59,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 266.8,
+        "gross_profit": 186.8,
+        "operating_income": 42.2,
+        "depreciation_amortization": 9.3,
+        "reported_ebitda": 51.5,
+        "normalized_ebitda": 53.9,
+        "total_qoe_addbacks": 2.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.7,
+          "restructuring_and_migration": 0.7
+        },
+        "current_assets": 112.1,
+        "current_liabilities": 64.0,
+        "working_capital": 48.1,
+        "working_capital_pct_revenue": 18.03,
+        "total_debt": 148.2,
+        "interest_expense": 9.6,
+        "debt_to_ebitda": 2.75,
+        "interest_coverage": 5.61,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 290.0,
+        "gross_profit": 203.0,
+        "operating_income": 47.7,
+        "depreciation_amortization": 10.2,
+        "reported_ebitda": 57.9,
+        "normalized_ebitda": 60.6,
+        "total_qoe_addbacks": 2.7,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 1.9,
+          "restructuring_and_migration": 0.8
+        },
+        "current_assets": 121.8,
+        "current_liabilities": 69.6,
+        "working_capital": 52.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 166.7,
+        "interest_expense": 10.8,
+        "debt_to_ebitda": 2.75,
+        "interest_coverage": 5.61,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  },
+  "BIOFUELX": {
+    "cik": "0001314405",
+    "ticker": "BIOFUELX",
+    "name": "BioFuelX Renewable Diesel",
+    "sector": "CleanTech & Energy Transition",
+    "historical_periods": [
+      {
+        "fiscal_year": 2021,
+        "revenue": 369.6,
+        "gross_profit": 258.7,
+        "operating_income": 50.6,
+        "depreciation_amortization": 12.9,
+        "reported_ebitda": 63.5,
+        "normalized_ebitda": 66.5,
+        "total_qoe_addbacks": 3.0,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.1,
+          "restructuring_and_migration": 0.9
+        },
+        "current_assets": 155.2,
+        "current_liabilities": 88.7,
+        "working_capital": 66.5,
+        "working_capital_pct_revenue": 17.99,
+        "total_debt": 219.4,
+        "interest_expense": 14.3,
+        "debt_to_ebitda": 3.3,
+        "interest_coverage": 4.65,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2022,
+        "revenue": 404.8,
+        "gross_profit": 283.4,
+        "operating_income": 58.1,
+        "depreciation_amortization": 14.2,
+        "reported_ebitda": 72.3,
+        "normalized_ebitda": 75.7,
+        "total_qoe_addbacks": 3.4,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.4,
+          "restructuring_and_migration": 1.0
+        },
+        "current_assets": 170.0,
+        "current_liabilities": 97.2,
+        "working_capital": 72.8,
+        "working_capital_pct_revenue": 17.98,
+        "total_debt": 249.8,
+        "interest_expense": 16.2,
+        "debt_to_ebitda": 3.3,
+        "interest_coverage": 4.67,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      },
+      {
+        "fiscal_year": 2023,
+        "revenue": 440.0,
+        "gross_profit": 308.0,
+        "operating_income": 66.2,
+        "depreciation_amortization": 15.4,
+        "reported_ebitda": 81.6,
+        "normalized_ebitda": 85.4,
+        "total_qoe_addbacks": 3.8,
+        "adjustments_breakdown": {
+          "stock_based_compensation": 2.7,
+          "restructuring_and_migration": 1.1
+        },
+        "current_assets": 184.8,
+        "current_liabilities": 105.6,
+        "working_capital": 79.2,
+        "working_capital_pct_revenue": 18.0,
+        "total_debt": 281.8,
+        "interest_expense": 18.3,
+        "debt_to_ebitda": 3.3,
+        "interest_coverage": 4.67,
+        "covenant_compliance": {
+          "leverage_under_4_5x": true,
+          "interest_coverage_over_3_0x": true
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: pe_postgres_db
+    restart: always
+    environment:
+      POSTGRES_USER: pe_analyst
+      POSTGRES_PASSWORD: pe_secret_password
+      POSTGRES_DB: pe_valuation_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pe_fastapi_engine
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      - DATABASE_URL=postgresql://pe_analyst:pe_secret_password@postgres:5432/pe_valuation_db
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: pe_react_dashboard
+    restart: always
+    depends_on:
+      - backend
+    ports:
+      - "3000:80"
+
+volumes:
+  pgdata:
+

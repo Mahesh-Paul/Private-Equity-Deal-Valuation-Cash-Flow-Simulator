@@ -1,0 +1,121 @@
+ticker,name,sector,fiscal_year,revenue,operating_income,depreciation_amortization,reported_ebitda,normalized_ebitda,total_qoe_addbacks,current_assets,current_liabilities,working_capital,total_debt,interest_expense,debt_to_ebitda,interest_coverage
+APOLLO,Apollo Enterprise Cloud Systems,Enterprise Software & Cloud SaaS,2021,210.0,37.5,7.4,44.9,47.0,2.1,88.2,50.4,37.8,102.0,6.6,2.17,7.12
+APOLLO,Apollo Enterprise Cloud Systems,Enterprise Software & Cloud SaaS,2022,230.0,42.6,8.1,50.7,53.1,2.4,96.6,55.2,41.4,115.2,7.5,2.17,7.08
+APOLLO,Apollo Enterprise Cloud Systems,Enterprise Software & Cloud SaaS,2023,250.0,48.0,8.8,56.8,59.5,2.7,105.0,60.0,45.0,129.1,8.4,2.17,7.08
+DATASYNC,DataSync Analytics Corp,Enterprise Software & Cloud SaaS,2021,268.8,59.9,9.4,69.3,72.6,3.3,112.9,64.5,48.4,134.3,8.7,1.85,8.34
+DATASYNC,DataSync Analytics Corp,Enterprise Software & Cloud SaaS,2022,294.4,67.5,10.3,77.8,81.5,3.7,123.6,70.7,52.9,150.8,9.8,1.85,8.32
+DATASYNC,DataSync Analytics Corp,Enterprise Software & Cloud SaaS,2023,320.0,75.6,11.2,86.8,90.9,4.1,134.4,76.8,57.6,168.2,10.9,1.85,8.34
+CYBERVAULT,CyberVault Security Solutions,Enterprise Software & Cloud SaaS,2021,163.8,26.4,5.7,32.1,33.6,1.5,68.8,39.3,29.5,80.6,5.2,2.4,6.46
+CYBERVAULT,CyberVault Security Solutions,Enterprise Software & Cloud SaaS,2022,179.4,30.0,6.3,36.3,38.0,1.7,75.3,43.1,32.2,91.2,5.9,2.4,6.44
+CYBERVAULT,CyberVault Security Solutions,Enterprise Software & Cloud SaaS,2023,195.0,34.0,6.8,40.8,42.7,1.9,81.9,46.8,35.1,102.5,6.7,2.4,6.37
+CLOUDFLOW,CloudFlow Infrastructure Inc,Enterprise Software & Cloud SaaS,2021,344.4,84.9,12.1,97.0,101.6,4.6,144.6,82.7,61.9,198.1,12.9,1.95,7.88
+CLOUDFLOW,CloudFlow Infrastructure Inc,Enterprise Software & Cloud SaaS,2022,377.2,95.6,13.2,108.8,113.9,5.1,158.4,90.5,67.9,222.1,14.4,1.95,7.91
+CLOUDFLOW,CloudFlow Infrastructure Inc,Enterprise Software & Cloud SaaS,2023,410.0,106.6,14.4,121.0,126.7,5.7,172.2,98.4,73.8,247.1,16.1,1.95,7.87
+OMNICOMM,OmniCommerce SaaS Group,Enterprise Software & Cloud SaaS,2021,138.6,18.9,4.9,23.8,24.9,1.1,58.2,33.3,24.9,66.0,4.3,2.65,5.79
+OMNICOMM,OmniCommerce SaaS Group,Enterprise Software & Cloud SaaS,2022,151.8,21.8,5.3,27.1,28.4,1.3,63.8,36.4,27.4,75.3,4.9,2.65,5.8
+OMNICOMM,OmniCommerce SaaS Group,Enterprise Software & Cloud SaaS,2023,165.0,24.8,5.8,30.6,32.0,1.4,69.3,39.6,29.7,84.8,5.5,2.65,5.82
+DEVSCALE,DevScale Platform Technologies,Enterprise Software & Cloud SaaS,2021,235.2,46.8,8.2,55.0,57.6,2.6,98.8,56.4,42.4,121.0,7.9,2.1,7.29
+DEVSCALE,DevScale Platform Technologies,Enterprise Software & Cloud SaaS,2022,257.6,53.0,9.0,62.0,64.9,2.9,108.2,61.8,46.4,136.3,8.9,2.1,7.29
+DEVSCALE,DevScale Platform Technologies,Enterprise Software & Cloud SaaS,2023,280.0,59.4,9.8,69.2,72.5,3.3,117.6,67.2,50.4,152.2,9.9,2.1,7.32
+APEXAI,Apex Enterprise AI Systems,Enterprise Software & Cloud SaaS,2021,117.6,14.4,4.1,18.5,19.4,0.9,49.4,28.2,21.2,33.0,2.1,1.7,9.24
+APEXAI,Apex Enterprise AI Systems,Enterprise Software & Cloud SaaS,2022,128.8,16.7,4.5,21.2,22.2,1.0,54.1,30.9,23.2,37.7,2.5,1.7,8.88
+APEXAI,Apex Enterprise AI Systems,Enterprise Software & Cloud SaaS,2023,140.0,19.1,4.9,24.0,25.1,1.1,58.8,33.6,25.2,42.7,2.8,1.7,8.96
+BEACON,Beacon Medical Technologies,Healthcare & Medical Devices,2021,331.8,69.2,11.6,80.8,84.6,3.8,139.4,79.6,59.8,230.1,15.0,2.72,5.64
+BEACON,Beacon Medical Technologies,Healthcare & Medical Devices,2022,363.4,78.2,12.7,90.9,95.2,4.3,152.6,87.2,65.4,258.9,16.8,2.72,5.67
+BEACON,Beacon Medical Technologies,Healthcare & Medical Devices,2023,395.0,87.7,13.8,101.5,106.3,4.8,165.9,94.8,71.1,289.1,18.8,2.72,5.65
+NOVABIO,NovaBio Therapeutics Group,Healthcare & Medical Devices,2021,403.2,103.4,14.1,117.5,123.0,5.5,169.3,96.8,72.5,276.8,18.0,2.25,6.83
+NOVABIO,NovaBio Therapeutics Group,Healthcare & Medical Devices,2022,441.6,116.1,15.5,131.6,137.8,6.2,185.5,106.0,79.5,310.1,20.2,2.25,6.82
+NOVABIO,NovaBio Therapeutics Group,Healthcare & Medical Devices,2023,480.0,129.4,16.8,146.2,153.1,6.9,201.6,115.2,86.4,344.5,22.4,2.25,6.83
+CARDIOCORE,CardioCore Diagnostics Inc,Healthcare & Medical Devices,2021,243.6,45.0,8.5,53.5,56.0,2.5,102.3,58.5,43.8,156.8,10.2,2.8,5.49
+CARDIOCORE,CardioCore Diagnostics Inc,Healthcare & Medical Devices,2022,266.8,51.1,9.3,60.4,63.2,2.8,112.1,64.0,48.1,177.0,11.5,2.8,5.5
+CARDIOCORE,CardioCore Diagnostics Inc,Healthcare & Medical Devices,2023,290.0,57.4,10.2,67.6,70.8,3.2,121.8,69.6,52.2,198.2,12.9,2.8,5.49
+GENEXIS,Genexis Molecular Labs,Healthcare & Medical Devices,2021,176.4,26.7,6.2,32.9,34.4,1.5,74.1,42.3,31.8,106.6,6.9,3.1,4.99
+GENEXIS,Genexis Molecular Labs,Healthcare & Medical Devices,2022,193.2,30.4,6.8,37.2,39.0,1.8,81.1,46.4,34.7,120.9,7.9,3.1,4.94
+GENEXIS,Genexis Molecular Labs,Healthcare & Medical Devices,2023,210.0,34.5,7.4,41.9,43.9,2.0,88.2,50.4,37.8,136.1,8.8,3.1,4.99
+PULSEMED,PulseMed Surgical Robotics,Healthcare & Medical Devices,2021,462.0,105.1,16.2,121.3,127.0,5.7,194.0,110.9,83.1,292.1,19.0,2.3,6.68
+PULSEMED,PulseMed Surgical Robotics,Healthcare & Medical Devices,2022,506.0,118.6,17.7,136.3,142.7,6.4,212.5,121.4,91.1,328.2,21.3,2.3,6.7
+PULSEMED,PulseMed Surgical Robotics,Healthcare & Medical Devices,2023,550.0,132.4,19.3,151.7,158.9,7.2,231.0,132.0,99.0,365.5,23.8,2.3,6.68
+VITALIS,Vitalis Care Facilities Inc,Healthcare & Medical Devices,2021,520.8,61.4,18.2,79.6,83.3,3.7,218.7,125.0,93.7,320.7,20.8,3.85,4.0
+VITALIS,Vitalis Care Facilities Inc,Healthcare & Medical Devices,2022,570.4,71.0,20.0,91.0,95.3,4.3,239.6,136.9,102.7,366.9,23.8,3.85,4.0
+VITALIS,Vitalis Care Facilities Inc,Healthcare & Medical Devices,2023,620.0,81.3,21.7,103.0,107.9,4.9,260.4,148.8,111.6,415.4,27.0,3.85,4.0
+OPTIPHARM,OptiPharm Specialty Formulations,Healthcare & Medical Devices,2021,285.6,55.4,10.0,65.4,68.5,3.1,120.0,68.5,51.5,178.1,11.6,2.6,5.91
+OPTIPHARM,OptiPharm Specialty Formulations,Healthcare & Medical Devices,2022,312.8,62.9,10.9,73.8,77.3,3.5,131.4,75.1,56.3,201.0,13.1,2.6,5.9
+OPTIPHARM,OptiPharm Specialty Formulations,Healthcare & Medical Devices,2023,340.0,70.6,11.9,82.5,86.4,3.9,142.8,81.6,61.2,224.6,14.6,2.6,5.92
+PRECISION,Precision Industrial Automation,Industrial Automation & Aerospace,2021,449.4,55.9,15.7,71.6,75.0,3.4,188.7,107.9,80.8,254.2,16.5,3.39,4.55
+PRECISION,Precision Industrial Automation,Industrial Automation & Aerospace,2022,492.2,64.5,17.2,81.7,85.6,3.9,206.7,118.1,88.6,290.2,18.9,3.39,4.53
+PRECISION,Precision Industrial Automation,Industrial Automation & Aerospace,2023,535.0,73.7,18.7,92.4,96.8,4.4,224.7,128.4,96.3,328.2,21.3,3.39,4.54
+AEROVECTOR,AeroVector Defense Systems,Industrial Automation & Aerospace,2021,630.0,98.2,22.1,120.3,126.0,5.7,264.6,151.2,113.4,365.4,23.8,2.9,5.29
+AEROVECTOR,AeroVector Defense Systems,Industrial Automation & Aerospace,2022,690.0,112.2,24.2,136.4,142.8,6.4,289.8,165.6,124.2,414.1,26.9,2.9,5.31
+AEROVECTOR,AeroVector Defense Systems,Industrial Automation & Aerospace,2023,750.0,127.0,26.3,153.3,160.5,7.2,315.0,180.0,135.0,465.4,30.3,2.9,5.3
+KINETIC,Kinetic Robotics & Powertrain,Industrial Automation & Aerospace,2021,344.4,37.3,12.1,49.4,51.7,2.3,144.6,82.7,61.9,181.0,11.8,3.5,4.38
+KINETIC,Kinetic Robotics & Powertrain,Industrial Automation & Aerospace,2022,377.2,43.3,13.2,56.5,59.2,2.7,158.4,90.5,67.9,207.2,13.5,3.5,4.39
+KINETIC,Kinetic Robotics & Powertrain,Industrial Automation & Aerospace,2023,410.0,49.8,14.4,64.2,67.2,3.0,172.2,98.4,73.8,235.2,15.3,3.5,4.39
+TURBOPAK,TurboPak Heavy Machinery,Industrial Automation & Aerospace,2021,571.2,75.5,20.0,95.5,100.0,4.5,239.9,137.1,102.8,315.0,20.5,3.15,4.88
+TURBOPAK,TurboPak Heavy Machinery,Industrial Automation & Aerospace,2022,625.6,86.9,21.9,108.8,113.9,5.1,262.8,150.1,112.7,358.8,23.3,3.15,4.89
+TURBOPAK,TurboPak Heavy Machinery,Industrial Automation & Aerospace,2023,680.0,98.9,23.8,122.7,128.5,5.8,285.6,163.2,122.4,404.8,26.3,3.15,4.89
+HYDRAFLOW,HydraFlow Valves & Controls,Industrial Automation & Aerospace,2021,268.8,39.4,9.4,48.8,51.1,2.3,112.9,64.5,48.4,143.1,9.3,2.8,5.49
+HYDRAFLOW,HydraFlow Valves & Controls,Industrial Automation & Aerospace,2022,294.4,45.1,10.3,55.4,58.0,2.6,123.6,70.7,52.9,162.4,10.6,2.8,5.47
+HYDRAFLOW,HydraFlow Valves & Controls,Industrial Automation & Aerospace,2023,320.0,51.2,11.2,62.4,65.3,2.9,134.4,76.8,57.6,182.8,11.9,2.8,5.49
+FORGETECH,ForgeTech Advanced Alloys,Industrial Automation & Aerospace,2021,386.4,38.2,13.5,51.7,54.1,2.4,162.3,92.7,69.6,200.2,13.0,3.7,4.16
+FORGETECH,ForgeTech Advanced Alloys,Industrial Automation & Aerospace,2022,423.2,44.6,14.8,59.4,62.2,2.8,177.7,101.6,76.1,230.1,15.0,3.7,4.15
+FORGETECH,ForgeTech Advanced Alloys,Industrial Automation & Aerospace,2023,460.0,51.5,16.1,67.6,70.8,3.2,193.2,110.4,82.8,262.0,17.0,3.7,4.16
+CIRCUITEK,CircuiTek Embedded Modules,Industrial Automation & Aerospace,2021,231.0,38.2,8.1,46.3,48.5,2.2,97.0,55.4,41.6,118.8,7.7,2.45,6.3
+CIRCUITEK,CircuiTek Embedded Modules,Industrial Automation & Aerospace,2022,253.0,43.5,8.9,52.4,54.9,2.5,106.3,60.7,45.6,134.5,8.7,2.45,6.31
+CIRCUITEK,CircuiTek Embedded Modules,Industrial Automation & Aerospace,2023,275.0,49.2,9.6,58.8,61.6,2.8,115.5,66.0,49.5,150.9,9.8,2.45,6.29
+VELOCE,Veloce Athletic Apparel Group,Consumer & E-Commerce Retail,2021,688.8,91.0,24.1,115.1,120.5,5.4,289.3,165.3,124.0,253.1,16.5,2.1,7.3
+VELOCE,Veloce Athletic Apparel Group,Consumer & E-Commerce Retail,2022,754.4,104.7,26.4,131.1,137.3,6.2,316.8,181.1,135.7,288.3,18.7,2.1,7.34
+VELOCE,Veloce Athletic Apparel Group,Consumer & E-Commerce Retail,2023,820.0,119.3,28.7,148.0,155.0,7.0,344.4,196.8,147.6,325.5,21.2,2.1,7.31
+BEVTREND,BevTrend Organic Beverages,Consumer & E-Commerce Retail,2021,378.0,75.2,13.2,88.4,92.6,4.2,158.8,90.7,68.1,162.0,10.5,1.75,8.82
+BEVTREND,BevTrend Organic Beverages,Consumer & E-Commerce Retail,2022,414.0,85.1,14.5,99.6,104.3,4.7,173.9,99.4,74.5,182.5,11.9,1.75,8.76
+BEVTREND,BevTrend Organic Beverages,Consumer & E-Commerce Retail,2023,450.0,95.5,15.8,111.3,116.5,5.2,189.0,108.0,81.0,203.9,13.3,1.75,8.76
+PUREGLOW,PureGlow Beauty & Cosmetics,Consumer & E-Commerce Retail,2021,327.6,51.1,11.5,62.6,65.5,2.9,137.6,78.6,59.0,150.6,9.8,2.3,6.68
+PUREGLOW,PureGlow Beauty & Cosmetics,Consumer & E-Commerce Retail,2022,358.8,58.4,12.6,71.0,74.3,3.3,150.7,86.1,64.6,170.9,11.1,2.3,6.69
+PUREGLOW,PureGlow Beauty & Cosmetics,Consumer & E-Commerce Retail,2023,390.0,66.0,13.7,79.7,83.5,3.8,163.8,93.6,70.2,192.0,12.5,2.3,6.68
+URBANHOME,UrbanHome Direct Furnishings,Consumer & E-Commerce Retail,2021,428.4,36.1,15.0,51.1,53.5,2.4,179.9,102.8,77.1,173.9,11.3,3.25,4.73
+URBANHOME,UrbanHome Direct Furnishings,Consumer & E-Commerce Retail,2022,469.2,42.7,16.4,59.1,61.9,2.8,197.1,112.6,84.5,201.2,13.1,3.25,4.73
+URBANHOME,UrbanHome Direct Furnishings,Consumer & E-Commerce Retail,2023,510.0,49.8,17.9,67.7,70.9,3.2,214.2,122.4,91.8,230.4,15.0,3.25,4.73
+PETNOURISH,PetNourish Premium Petcare,Consumer & E-Commerce Retail,2021,243.6,27.6,8.5,36.1,37.8,1.7,102.3,58.5,43.8,105.8,6.9,2.8,5.48
+PETNOURISH,PetNourish Premium Petcare,Consumer & E-Commerce Retail,2022,266.8,32.0,9.3,41.3,43.2,1.9,112.1,64.0,48.1,121.0,7.9,2.8,5.47
+PETNOURISH,PetNourish Premium Petcare,Consumer & E-Commerce Retail,2023,290.0,36.6,10.2,46.8,49.0,2.2,121.8,69.6,52.2,137.2,8.9,2.8,5.51
+GOURMETB,GourmetBlend Artisan Foods,Consumer & E-Commerce Retail,2021,277.2,27.4,9.7,37.1,38.8,1.7,116.4,66.5,49.9,114.5,7.4,2.95,5.24
+GOURMETB,GourmetBlend Artisan Foods,Consumer & E-Commerce Retail,2022,303.6,32.0,10.6,42.6,44.6,2.0,127.5,72.9,54.6,131.6,8.6,2.95,5.19
+GOURMETB,GourmetBlend Artisan Foods,Consumer & E-Commerce Retail,2023,330.0,36.9,11.6,48.5,50.8,2.3,138.6,79.2,59.4,149.9,9.7,2.95,5.24
+OUTDOORX,OutdoorX Gear & Recreation,Consumer & E-Commerce Retail,2021,352.8,45.0,12.3,57.3,60.0,2.7,148.2,84.7,63.5,144.0,9.4,2.4,6.38
+OUTDOORX,OutdoorX Gear & Recreation,Consumer & E-Commerce Retail,2022,386.4,51.8,13.5,65.3,68.4,3.1,162.3,92.7,69.6,164.2,10.7,2.4,6.39
+OUTDOORX,OutdoorX Gear & Recreation,Consumer & E-Commerce Retail,2023,420.0,59.1,14.7,73.8,77.3,3.5,176.4,100.8,75.6,185.5,12.1,2.4,6.39
+FINPAY,FinPay Payments Network,FinTech & Financial Infrastructure,2021,798.0,250.3,27.9,278.2,291.3,13.1,335.2,191.5,143.7,903.0,58.7,3.1,4.96
+FINPAY,FinPay Payments Network,FinTech & Financial Infrastructure,2022,874.0,279.9,30.6,310.5,325.1,14.6,367.1,209.8,157.3,1007.8,65.5,3.1,4.96
+FINPAY,FinPay Payments Network,FinTech & Financial Infrastructure,2023,950.0,310.7,33.2,343.9,360.1,16.2,399.0,228.0,171.0,1116.3,72.6,3.1,4.96
+LEDGERIX,Ledgerix Wealth Tech Systems,FinTech & Financial Infrastructure,2021,319.2,80.3,11.2,91.5,95.8,4.3,134.1,76.6,57.5,210.8,13.7,2.2,6.99
+LEDGERIX,Ledgerix Wealth Tech Systems,FinTech & Financial Infrastructure,2022,349.6,90.3,12.2,102.5,107.3,4.8,146.8,83.9,62.9,236.1,15.3,2.2,7.01
+LEDGERIX,Ledgerix Wealth Tech Systems,FinTech & Financial Infrastructure,2023,380.0,100.6,13.3,113.9,119.3,5.4,159.6,91.2,68.4,262.5,17.1,2.2,6.98
+CREDITLENS,CreditLens Risk Analytics,FinTech & Financial Infrastructure,2021,352.8,97.2,12.3,109.5,114.7,5.2,148.2,84.7,63.5,286.8,18.6,2.5,6.17
+CREDITLENS,CreditLens Risk Analytics,FinTech & Financial Infrastructure,2022,386.4,109.0,13.5,122.5,128.3,5.8,162.3,92.7,69.6,320.8,20.9,2.5,6.14
+CREDITLENS,CreditLens Risk Analytics,FinTech & Financial Infrastructure,2023,420.0,121.3,14.7,136.0,142.4,6.4,176.4,100.8,75.6,356.0,23.1,2.5,6.16
+CLEARSETTLE,ClearSettle Clearinghouse Inc,FinTech & Financial Infrastructure,2021,512.4,175.4,17.9,193.3,202.4,9.1,215.2,123.0,92.2,384.6,25.0,1.9,8.1
+CLEARSETTLE,ClearSettle Clearinghouse Inc,FinTech & Financial Infrastructure,2022,561.2,195.8,19.6,215.4,225.6,10.2,235.7,134.7,101.0,428.6,27.9,1.9,8.09
+CLEARSETTLE,ClearSettle Clearinghouse Inc,FinTech & Financial Infrastructure,2023,610.0,216.9,21.4,238.3,249.5,11.2,256.2,146.4,109.8,474.0,30.8,1.9,8.1
+INSURASOFT,InsuraSoft Policy Cloud,FinTech & Financial Infrastructure,2021,218.4,46.6,7.6,54.2,56.8,2.6,91.7,52.4,39.3,136.3,8.9,2.4,6.38
+INSURASOFT,InsuraSoft Policy Cloud,FinTech & Financial Infrastructure,2022,239.2,52.6,8.4,61.0,63.9,2.9,100.5,57.4,43.1,153.4,10.0,2.4,6.39
+INSURASOFT,InsuraSoft Policy Cloud,FinTech & Financial Infrastructure,2023,260.0,58.9,9.1,68.0,71.2,3.2,109.2,62.4,46.8,170.9,11.1,2.4,6.41
+QUANTMARKET,QuantMarket Securities Feed,FinTech & Financial Infrastructure,2021,285.6,84.1,10.0,94.1,98.5,4.4,120.0,68.5,51.5,201.9,13.1,2.05,7.52
+QUANTMARKET,QuantMarket Securities Feed,FinTech & Financial Infrastructure,2022,312.8,94.2,10.9,105.1,110.1,5.0,131.4,75.1,56.3,225.7,14.7,2.05,7.49
+QUANTMARKET,QuantMarket Securities Feed,FinTech & Financial Infrastructure,2023,340.0,104.7,11.9,116.6,122.1,5.5,142.8,81.6,61.2,250.3,16.3,2.05,7.49
+SOLARIS,Solaris Photovoltaic Systems,CleanTech & Energy Transition,2021,546.0,87.8,19.1,106.9,111.9,5.0,229.3,131.0,98.3,330.1,21.5,2.95,5.2
+SOLARIS,Solaris Photovoltaic Systems,CleanTech & Energy Transition,2022,598.0,100.2,20.9,121.1,126.8,5.7,251.2,143.5,107.7,374.1,24.3,2.95,5.22
+SOLARIS,Solaris Photovoltaic Systems,CleanTech & Energy Transition,2023,650.0,113.1,22.8,135.9,142.3,6.4,273.0,156.0,117.0,419.8,27.3,2.95,5.21
+VOLTSTORAGE,VoltStorage Grid Energy,CleanTech & Energy Transition,2021,319.2,40.7,11.2,51.9,54.3,2.4,134.1,76.6,57.5,195.5,12.7,3.6,4.28
+VOLTSTORAGE,VoltStorage Grid Energy,CleanTech & Energy Transition,2022,349.6,46.9,12.2,59.1,61.9,2.8,146.8,83.9,62.9,222.8,14.5,3.6,4.27
+VOLTSTORAGE,VoltStorage Grid Energy,CleanTech & Energy Transition,2023,380.0,53.5,13.3,66.8,69.9,3.1,159.6,91.2,68.4,251.6,16.4,3.6,4.26
+AEROPOWER,AeroPower Wind Generation,CleanTech & Energy Transition,2021,436.8,78.6,15.3,93.9,98.3,4.4,183.5,104.8,78.7,334.2,21.7,3.4,4.53
+AEROPOWER,AeroPower Wind Generation,CleanTech & Energy Transition,2022,478.4,89.3,16.7,106.0,111.0,5.0,200.9,114.8,86.1,377.4,24.5,3.4,4.53
+AEROPOWER,AeroPower Wind Generation,CleanTech & Energy Transition,2023,520.0,100.5,18.2,118.7,124.3,5.6,218.4,124.8,93.6,422.6,27.5,3.4,4.52
+CLEANHYDRO,CleanHydro Electrolyzer Corp,CleanTech & Energy Transition,2021,159.6,14.9,5.6,20.5,21.5,1.0,67.0,38.3,28.7,83.8,5.4,3.9,3.98
+CLEANHYDRO,CleanHydro Electrolyzer Corp,CleanTech & Energy Transition,2022,174.8,17.6,6.1,23.7,24.8,1.1,73.4,42.0,31.4,96.7,6.3,3.9,3.94
+CLEANHYDRO,CleanHydro Electrolyzer Corp,CleanTech & Energy Transition,2023,190.0,20.3,6.7,27.0,28.3,1.3,79.8,45.6,34.2,110.4,7.2,3.9,3.93
+ECOGRID,EcoGrid Smart Metering Inc,CleanTech & Energy Transition,2021,243.6,36.9,8.5,45.4,47.5,2.1,102.3,58.5,43.8,130.6,8.5,2.75,5.59
+ECOGRID,EcoGrid Smart Metering Inc,CleanTech & Energy Transition,2022,266.8,42.2,9.3,51.5,53.9,2.4,112.1,64.0,48.1,148.2,9.6,2.75,5.61
+ECOGRID,EcoGrid Smart Metering Inc,CleanTech & Energy Transition,2023,290.0,47.7,10.2,57.9,60.6,2.7,121.8,69.6,52.2,166.7,10.8,2.75,5.61
+BIOFUELX,BioFuelX Renewable Diesel,CleanTech & Energy Transition,2021,369.6,50.6,12.9,63.5,66.5,3.0,155.2,88.7,66.5,219.4,14.3,3.3,4.65
+BIOFUELX,BioFuelX Renewable Diesel,CleanTech & Energy Transition,2022,404.8,58.1,14.2,72.3,75.7,3.4,170.0,97.2,72.8,249.8,16.2,3.3,4.67
+BIOFUELX,BioFuelX Renewable Diesel,CleanTech & Energy Transition,2023,440.0,66.2,15.4,81.6,85.4,3.8,184.8,105.6,79.2,281.8,18.3,3.3,4.67
