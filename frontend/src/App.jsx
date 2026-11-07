@@ -4,7 +4,6 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Navbar from './components/Navbar';
 import LBOModeler from './components/LBOModeler';
-import SensitivityMatrix from './components/SensitivityMatrix';
 import MonteCarloSimulator from './components/MonteCarloSimulator';
 import DCFValuation from './components/DCFValuation';
 import SecEdgarPipeline from './components/SecEdgarPipeline';
@@ -121,10 +120,6 @@ export default function App() {
             onSaveDeal={handleSaveDeal}
             isRecalculating={isRecalculating}
           />
-        )}
-
-        {activeTab === 'sensitivity' && (
-          <SensitivityMatrix lboParams={lboParams} />
         )}
 
         {activeTab === 'monte-carlo' && (

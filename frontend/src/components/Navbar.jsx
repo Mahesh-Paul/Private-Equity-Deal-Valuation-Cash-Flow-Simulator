@@ -1,10 +1,9 @@
 import React from 'react';
-import { TrendingUp, Layers, Activity, Database, Bookmark, FileText } from 'lucide-react';
+import { TrendingUp, Activity, Database, Bookmark, FileText } from 'lucide-react';
 
 export default function Navbar({ activeTab, setActiveTab, onOpenSavedDeals, savedCount = 0 }) {
   const tabs = [
     { id: 'lbo', label: 'LBO Modeler', icon: TrendingUp },
-    { id: 'sensitivity', label: 'Sensitivity Matrix', icon: Layers },
     { id: 'monte-carlo', label: '10k Risk Simulator', icon: Activity },
     { id: 'sec-edgar', label: 'SEC Filings', icon: Database },
     { id: 'dcf', label: 'DCF Valuation', icon: FileText },
