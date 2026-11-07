@@ -1,11 +1,14 @@
 # CapitalMetrics v2.0 | Private Equity Deal Valuation & Cash Flow Simulator
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://private-equity-deal-valuation-cash.vercel.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2+-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.2+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+> 🚀 **Live Production Application:** [https://private-equity-deal-valuation-cash.vercel.app/](https://private-equity-deal-valuation-cash.vercel.app/)
 
 An institutional-grade financial data analytics and simulation engine designed for private equity (PE), investment banking, and management consulting workflows. **CapitalMetrics** ingests raw SEC EDGAR 10-K and 10-Q filings, normalizes core financial statements, models multi-tranche Leveraged Buyout (LBO) debt paydown waterfalls, executes discounted cash flow (DCF) valuations, and stress-tests returns across **10,000+ Monte Carlo simulations** in sub-100ms.
 
