@@ -67,9 +67,16 @@ export default function MonteCarloSimulator({ lboParams }) {
               </span>
             )}
           </div>
-          <p className="text-xs text-slate-500 mt-1">
-            Quantitative stochastic simulation modeling correlated shocks across revenue, multiple compression, interest rates, and debt covenants.
-          </p>
+          <div className="flex items-center space-x-2 mt-1.5 text-xs">
+            <span className="text-slate-500">Target:</span>
+            <span className="font-bold text-blue-700 font-mono">{lboParams.target_name}</span>
+            <span className="text-slate-300">|</span>
+            <span className="text-slate-600 font-mono">EBITDA: ${lboParams.entry_ebitda}M</span>
+            <span className="text-slate-300">|</span>
+            <span className="text-slate-600 font-mono">Growth: {(lboParams.revenue_growth_rate * 100).toFixed(1)}%</span>
+            <span className="text-slate-300">|</span>
+            <span className="text-slate-600 font-mono">Exit: {lboParams.exit_multiple}x</span>
+          </div>
         </div>
 
         <button
@@ -116,7 +123,23 @@ export default function MonteCarloSimulator({ lboParams }) {
 
       {/* Quantitative KPI Cards */}
       {results && (
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+        <div className="space-y-3">
+          {/* Company Dollar Scope Strip */}
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200/80 rounded-xl p-3 flex flex-wrap items-center justify-between gap-3 text-xs">
+            <span className="font-bold text-slate-800">
+              {lboParams.target_name} Dollar Projections:
+            </span>
+            <div className="flex flex-wrap items-center gap-4 font-mono text-slate-700">
+              <span>Equity Invested: <strong className="text-blue-700">${results.sponsor_equity_entry}M</strong></span>
+              <span>➔</span>
+              <span>Expected Cash Out: <strong className="text-emerald-700">${results.median_sponsor_equity_exit}M</strong></span>
+              <span>(Deleveraging to <strong className="text-slate-900">${results.median_ending_debt}M</strong> debt)</span>
+              <span>|</span>
+              <span>Money Multiplier: <strong className="text-indigo-700">{results.median_moic}x</strong></span>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
           <div className="bg-white p-4 rounded-xl border border-slate-200 shadow-sm">
             <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Expected IRR (Median)</span>
             <div className="text-2xl font-black text-blue-700 mt-1 font-mono">{results.median_irr}%</div>
@@ -154,6 +177,7 @@ export default function MonteCarloSimulator({ lboParams }) {
             <div className="text-2xl font-black text-purple-700 mt-1 font-mono">{results.probability_hurdle_rate_20pct}%</div>
             <span className="text-[10px] text-slate-500">Loss prob: {results.probability_loss}%</span>
           </div>
+        </div>
         </div>
       )}
 

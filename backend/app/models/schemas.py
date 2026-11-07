@@ -140,6 +140,12 @@ class MonteCarloRequest(BaseModel):
 class MonteCarloResponse(BaseModel):
     simulations_count: int
     computation_time_ms: float
+    target_name: Optional[str] = ""
+    entry_ev: Optional[float] = 0.0
+    sponsor_equity_entry: Optional[float] = 0.0
+    median_sponsor_equity_exit: Optional[float] = 0.0
+    median_ending_debt: Optional[float] = 0.0
+    median_final_ebitda: Optional[float] = 0.0
     mean_irr: float
     median_irr: float
     std_irr: float

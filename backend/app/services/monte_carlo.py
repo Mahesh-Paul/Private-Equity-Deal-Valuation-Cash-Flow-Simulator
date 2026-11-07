@@ -9,8 +9,9 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     base = req.lbo_base
     years = base.holding_period
     
-    # Institutional reproducibility seed
-    np.random.seed(42)
+    # Deterministic company-specific seed so each target has its unique stochastic path
+    company_seed = (abs(hash(base.target_name)) % (2**31 - 1)) if base.target_name else 42
+    np.random.seed(company_seed)
     
     # Macroeconomic scenario modifiers
     scenario = getattr(req, 'macro_scenario', 'baseline') or 'baseline'
@@ -65,9 +66,11 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     final_revenue = base.entry_revenue * (growth_factors ** years)
     final_ebitda = final_revenue * simulated_margins
     
+    # Deleveraging dynamic: Higher margin companies generate more CFADS to sweep debt faster
+    margin_fcf_benefit = np.clip((base_margin - 0.20) * 1.2, -0.15, 0.25)
     amort_reduction = np.maximum(0.0, 1.0 - (weighted_amort * years))
     interest_drag = 1.0 - np.clip(simulated_interests - 0.06, -0.05, 0.15) * 1.8
-    debt_reduction_ratio = np.clip(amort_reduction * interest_drag, 0.20, 1.05)
+    debt_reduction_ratio = np.clip(amort_reduction * interest_drag - margin_fcf_benefit, 0.10, 1.05)
     ending_debt = initial_debt * debt_reduction_ratio
     
     final_leverage = ending_debt / np.maximum(final_ebitda, 0.01)
@@ -152,6 +155,12 @@ def run_monte_carlo_simulation(req: MonteCarloRequest) -> MonteCarloResponse:
     return MonteCarloResponse(
         simulations_count=N,
         computation_time_ms=round(execution_time, 2),
+        target_name=base.target_name,
+        entry_ev=round(entry_ev, 2),
+        sponsor_equity_entry=round(sponsor_equity_entry, 2),
+        median_sponsor_equity_exit=round(float(np.median(sponsor_equity_exit)), 2),
+        median_ending_debt=round(float(np.median(ending_debt)), 2),
+        median_final_ebitda=round(float(np.median(final_ebitda)), 2),
         mean_irr=round(mean_irr, 2),
         median_irr=round(median_irr, 2),
         std_irr=round(std_irr, 2),

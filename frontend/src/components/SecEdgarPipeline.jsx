@@ -57,14 +57,26 @@ export default function SecEdgarPipeline({ onSelectTarget }) {
   const handleApplyToModel = () => {
     if (!selectedCompanyData || !selectedCompanyData.historical_periods.length) return;
     const latest = selectedCompanyData.historical_periods[selectedCompanyData.historical_periods.length - 1];
+    
+    // Sector-specific financial multiples and growth profiles
+    const sectorProfiles = {
+      'Enterprise Software & Cloud SaaS': { growth: 0.125, entryMult: 13.5, exitMult: 14.5 },
+      'Healthcare & Medical Devices': { growth: 0.085, entryMult: 11.5, exitMult: 12.5 },
+      'Industrial Automation & Aerospace': { growth: 0.055, entryMult: 9.5, exitMult: 10.5 },
+      'Consumer & E-Commerce Retail': { growth: 0.045, entryMult: 8.0, exitMult: 8.5 },
+      'FinTech & Financial Infrastructure': { growth: 0.14, entryMult: 14.0, exitMult: 15.5 },
+      'CleanTech & Energy Transition': { growth: 0.11, entryMult: 12.0, exitMult: 13.5 }
+    };
+    const prof = sectorProfiles[selectedCompanyData.sector] || { growth: 0.08, entryMult: 11.0, exitMult: 12.0 };
+
     onSelectTarget({
       target_name: selectedCompanyData.name,
       entry_ebitda: latest.normalized_ebitda,
       entry_revenue: latest.revenue,
-      entry_multiple: 11.0,
+      entry_multiple: prof.entryMult,
       holding_period: 5,
-      exit_multiple: 12.0,
-      revenue_growth_rate: 0.08
+      exit_multiple: prof.exitMult,
+      revenue_growth_rate: prof.growth
     });
   };
 
